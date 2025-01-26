@@ -10,3 +10,10 @@ pm2 logs
 MongoDB installation:
 https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-ubuntu/#std-label-install-mdb-community-ubuntu
 systemctl start mongod
+
+
+mongosh
+show dbs
+use ZedTools
+show collections
+db.FactionLogs.find()
