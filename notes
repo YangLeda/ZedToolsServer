@@ -1,0 +1,12 @@
+pm2 commands:
+pm2 start node ZedToolsServer.js
+pm2 delete all
+
+View realtime pm2 logs in a seperate terminal:
+pm2 logs
+
+
+
+MongoDB installation:
+https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-ubuntu/#std-label-install-mdb-community-ubuntu
+systemctl start mongod
