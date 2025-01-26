@@ -10,9 +10,7 @@ const client = new MongoClient(uri, {
     },
 });
 
-const recordBook = {};
-
-let collection = null;
+let logsCollection = null;
 
 async function initDB() {
     try {
@@ -22,28 +20,28 @@ async function initDB() {
 
         const database = client.db("ZedTools");
 
-        // await database.collection("FactionLogs").drop(); // Dangerous! Remove ALL faction logs.
+        // Dangerous! Remove ALL data.
+        // await database.collection("FactionLogs").drop(); // Dangerous!
+        // await database.collection("FactionItemBook").drop(); // Dangerous!
 
-        collection = database.collection("FactionLogs");
-        console.log("Number of faction logs: " + (await collection.estimatedDocumentCount()));
-
-        collection.createIndex({ timestamp: 1, userid: 1 }, { unique: true });
-        collection.createIndex({ userid: 1 }, function (err, result) {
+        logsCollection = database.collection("FactionLogs");
+        console.log("Number of faction logs: " + (await logsCollection.estimatedDocumentCount()));
+        logsCollection.createIndex({ timestamp: 1, userid: 1 }, { unique: true });
+        logsCollection.createIndex({ userid: 1 }, function (err, result) {
             console.log(result);
             callback(result);
         });
-        collection.createIndex({ factionName: 1 }, function (err, result) {
+        logsCollection.createIndex({ factionName: 1 }, function (err, result) {
             console.log(result);
             callback(result);
         });
 
-        // Build initial record book
-        collection.find({}).forEach(
-            function (document) {
-                addLogToRecordBook(document);
-            },
-            function (e) {}
-        );
+        bookCollection = database.collection("FactionItemBook");
+        console.log("Number of users in item book: " + (await bookCollection.estimatedDocumentCount()));
+        bookCollection.createIndex({ playerName: 1 }, function (err, result) {
+            console.log(result);
+            callback(result);
+        });
     } finally {
         // await client.close();
     }
@@ -57,8 +55,14 @@ app.use(express.json());
 
 app.get("/faction-item-records", async (req, res) => {
     console.log("---------- GET: " + req.originalUrl);
-    const estimatedDocumentCount = await collection.estimatedDocumentCount();
-    res.status(200).json({ recordBook: recordBook, estimatedDocumentCount: estimatedDocumentCount });
+    const estimatedDocumentCount = await logsCollection.estimatedDocumentCount();
+
+    const resultObj = {};
+    for (const d of await bookCollection.find().toArray()) {
+        resultObj[d.playerId] = d;
+    }
+
+    res.status(200).json({ recordBook: resultObj, estimatedDocumentCount: estimatedDocumentCount });
 });
 
 app.post("/upload-faction-logs/", async (req, res) => {
@@ -69,7 +73,7 @@ app.post("/upload-faction-logs/", async (req, res) => {
     let insertedIds = {};
 
     try {
-        const insertResult = await collection.insertMany(json, { ordered: false });
+        const insertResult = await logsCollection.insertMany(json, { ordered: false });
         insertedIds = insertResult?.insertedIds;
     } catch (e) {
         console.error("Caught error:" + e?.errorResponse?.message);
@@ -79,36 +83,46 @@ app.post("/upload-faction-logs/", async (req, res) => {
     console.log("inserted count: " + Object.keys(insertedIds).length);
     for (const index in insertedIds) {
         const id = insertedIds[index];
-        const one = await collection.findOne({ _id: id });
-        addLogToRecordBook(one);
+        const newlyAddedLog = await logsCollection.findOne({ _id: id });
+        await addLogToRecordBook(newlyAddedLog);
     }
 
-    const estimatedDocumentCount = await collection.estimatedDocumentCount();
+    const estimatedDocumentCount = await logsCollection.estimatedDocumentCount();
     console.log("total number of stored faction logs: " + estimatedDocumentCount);
     res.status(200).json({ estimatedDocumentCount: estimatedDocumentCount });
 });
 
-function addLogToRecordBook(document) {
+async function addLogToRecordBook(document) {
     // 物品记账
-    const userId = document.userId;
-    if (userId && !recordBook[userId]) {
-        recordBook[userId] = {
-            playerId: userId,
-            playerNames: [document.userName],
-            items: {},
-            respectFromRaids: 0,
-            lastRaid: null,
-        };
+    const playerId = document.userId;
+    let bookDocument = await bookCollection.findOne({ playerId: playerId });
+    if (!bookDocument) {
+        try {
+            await bookCollection.insertOne({ playerId: playerId, playerNames: [document.userName], items: {}, balance: 0 });
+            bookDocument = await bookCollection.findOne({ playerId: playerId });
+        } catch (e) {
+            console.error("Caught error:" + e?.errorResponse?.message);
+        }
     }
+
     if (document.logType === "faction_take_item") {
-        recordBook[userId].items[document.itemName] = recordBook[userId].items[document.itemName]
-            ? Number(recordBook[userId].items[document.itemName]) - Number(document.itemQty)
+        bookDocument.items[document.itemName] = bookDocument.items[document.itemName]
+            ? Number(bookDocument.items[document.itemName]) - Number(document.itemQty)
             : -Number(document.itemQty);
+        bookDocument.balance -= Number(document.itemQty) * getWorthPrice(document.itemName);
     }
     if (document.logType === "faction_add_item") {
-        recordBook[userId].items[document.itemName] = recordBook[userId].items[document.itemName]
-            ? Number(recordBook[userId].items[document.itemName]) + Number(document.itemQty)
+        bookDocument.items[document.itemName] = bookDocument.items[document.itemName]
+            ? Number(bookDocument.items[document.itemName]) + Number(document.itemQty)
             : Number(document.itemQty);
+        bookDocument.balance += Number(document.itemQty) * getWorthPrice(document.itemName);
+    }
+
+    try {
+        await bookCollection.replaceOne({ playerId: playerId }, bookDocument);
+    } catch (e) {
+        console.log(e);
+        console.error("Caught error:" + e?.errorResponse?.message);
     }
 }
 
@@ -120,4 +134,47 @@ function sleep(ms) {
     return new Promise((resolve) => {
         setTimeout(resolve, ms);
     });
+}
+
+// 物品价值表
+function getWorthPrice(itemName) {
+    const itemWorthList = {
+        Logs: 7,
+        Coal: 25,
+        "Gun Powder": 50,
+        Scrap: 8,
+        "Iron Bar": 105,
+        Nails: 12,
+        Steel: 241,
+        Wire: 2500,
+        Rope: 6000,
+        Plastic: 4000,
+        Tarp: 6000,
+        Fuel: 3000,
+        Water: 100,
+        "Barley Seeds": 100,
+        Gears: 4000,
+        "Cooked Fish": 175,
+        Beer: 300,
+        "e-Cola": 4000,
+        炸药: 20000,
+        "Pistol Ammo": 300,
+        "Silver key": 10000,
+        "Advanced Tools": 50000,
+        Pickaxe: 2170,
+        "Wooden Fishing Rod": 2800,
+        "Zed Pack": 50000,
+        Chocolate: 800,
+        "Zed Juice": 50,
+        ZedBull: 6000,
+        "Unrefined Plastic": 30000,
+        Thread: 1500,
+    };
+
+    if (itemWorthList.hasOwnProperty(itemName)) {
+        return itemWorthList[itemName];
+    } else {
+        console.log("getWorthPrice can not find " + itemName);
+        return 0;
+    }
 }
