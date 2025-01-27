@@ -17,3 +17,24 @@ show dbs
 use ZedTools
 show collections
 db.FactionLogs.find()
+
+
+[
+  { "itemName": "Sawnoff", "price": 0 },
+  { "itemName": "Iron Ore", "price": 0 },
+  { "itemName": "Spear", "price": 0 },
+  { "itemName": "Fire Axe", "price": 0 },
+  { "itemName": "Switchblade", "price": 0 },
+  { "itemName": "Camo Hat", "price": 0 },
+  { "itemName": "Army Helmet", "price": 0 },
+  { "itemName": "AK-74u", "price": 0 },
+  { "itemName": "Barley", "price": 0 },
+  { "itemName": "Steel Fishing Rod", "price": 0 },
+  { "itemName": "Bow", "price": 0 },
+  { "itemName": "Morphine", "price": 0 },
+  { "itemName": "Wrench", "price": 0 },
+  { "itemName": "Vodka", "price": 0 },
+]
+
+
+ID 11662

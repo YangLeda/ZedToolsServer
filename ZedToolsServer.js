@@ -1,7 +1,8 @@
+const e = require("express");
 const express = require("express");
 const { MongoClient, ServerApiVersion } = require("mongodb");
 
-const uri = "mongodb://127.0.0.1:27017";
+const uri = "";
 const client = new MongoClient(uri, {
     serverApi: {
         version: ServerApiVersion.v1,
@@ -11,27 +12,32 @@ const client = new MongoClient(uri, {
 });
 
 let logsCollection = null;
+let bookCollection = null;
+let itemWorthsCollection = null;
 
 async function initDB() {
     try {
         await client.connect();
         await client.db("admin").command({ ping: 1 });
         console.log("Successfully connected to MongoDB");
-
         const database = client.db("ZedTools");
-
-        // Dangerous! Remove ALL data.
-        // await database.collection("FactionLogs").drop(); // Dangerous!
-        // await database.collection("FactionItemBook").drop(); // Dangerous!
 
         logsCollection = database.collection("FactionLogs");
         console.log("Number of faction logs: " + (await logsCollection.estimatedDocumentCount()));
-        logsCollection.createIndex({ timestamp: 1, userid: 1 }, { unique: true });
-        logsCollection.createIndex({ userid: 1 }, function (err, result) {
+        logsCollection.createIndex({ timestamp: 1, userId: 1 }, { unique: true });
+        logsCollection.createIndex({ userId: 1 }, function (err, result) {
             console.log(result);
             callback(result);
         });
         logsCollection.createIndex({ factionName: 1 }, function (err, result) {
+            console.log(result);
+            callback(result);
+        });
+        logsCollection.createIndex({ userName: 1 }, function (err, result) {
+            console.log(result);
+            callback(result);
+        });
+        logsCollection.createIndex({ isAccounted: 1 }, function (err, result) {
             console.log(result);
             callback(result);
         });
@@ -42,8 +48,17 @@ async function initDB() {
             console.log(result);
             callback(result);
         });
+        bookCollection.createIndex({ playerId: 1 }, function (err, result) {
+            console.log(result);
+            callback(result);
+        });
+
+        itemWorthsCollection = database.collection("ItemWorths");
+        console.log("Number of items in itemWorthsCollection: " + (await itemWorthsCollection.estimatedDocumentCount()));
+        itemWorthsCollection.createIndex({ itemName: 1 }, { unique: true });
+
+        await accountLogs();
     } finally {
-        // await client.close();
     }
 }
 initDB().catch(console.dir);
@@ -56,6 +71,8 @@ app.use(express.json());
 app.get("/faction-item-records", async (req, res) => {
     console.log("---------- GET: " + req.originalUrl);
     const estimatedDocumentCount = await logsCollection.estimatedDocumentCount();
+
+    await accountLogs();
 
     const resultObj = {};
     for (const d of await bookCollection.find().toArray()) {
@@ -92,8 +109,8 @@ app.post("/upload-faction-logs/", async (req, res) => {
     res.status(200).json({ estimatedDocumentCount: estimatedDocumentCount });
 });
 
+// 物品记账
 async function addLogToRecordBook(document) {
-    // 物品记账
     const playerId = document.userId;
     let bookDocument = await bookCollection.findOne({ playerId: playerId });
     if (!bookDocument) {
@@ -109,17 +126,20 @@ async function addLogToRecordBook(document) {
         bookDocument.items[document.itemName] = bookDocument.items[document.itemName]
             ? Number(bookDocument.items[document.itemName]) - Number(document.itemQty)
             : -Number(document.itemQty);
-        bookDocument.balance -= Number(document.itemQty) * getWorthPrice(document.itemName);
+        bookDocument.balance -= Number(document.itemQty) * (await getWorthPrice(document.itemName));
     }
     if (document.logType === "faction_add_item") {
         bookDocument.items[document.itemName] = bookDocument.items[document.itemName]
             ? Number(bookDocument.items[document.itemName]) + Number(document.itemQty)
             : Number(document.itemQty);
-        bookDocument.balance += Number(document.itemQty) * getWorthPrice(document.itemName);
+        bookDocument.balance += Number(document.itemQty) * (await getWorthPrice(document.itemName));
     }
 
+    document.isAccounted = true;
+
     try {
-        await bookCollection.replaceOne({ playerId: playerId }, bookDocument);
+        await bookCollection.replaceOne({ _id: bookDocument._id }, bookDocument);
+        await logsCollection.replaceOne({ _id: document._id }, document);
     } catch (e) {
         console.log(e);
         console.error("Caught error:" + e?.errorResponse?.message);
@@ -136,45 +156,31 @@ function sleep(ms) {
     });
 }
 
-// 物品价值表
-function getWorthPrice(itemName) {
-    const itemWorthList = {
-        Logs: 7,
-        Coal: 25,
-        "Gun Powder": 50,
-        Scrap: 8,
-        "Iron Bar": 105,
-        Nails: 12,
-        Steel: 241,
-        Wire: 2500,
-        Rope: 6000,
-        Plastic: 4000,
-        Tarp: 6000,
-        Fuel: 3000,
-        Water: 100,
-        "Barley Seeds": 100,
-        Gears: 4000,
-        "Cooked Fish": 175,
-        Beer: 300,
-        "e-Cola": 4000,
-        炸药: 20000,
-        "Pistol Ammo": 300,
-        "Silver key": 10000,
-        "Advanced Tools": 50000,
-        Pickaxe: 2170,
-        "Wooden Fishing Rod": 2800,
-        "Zed Pack": 50000,
-        Chocolate: 800,
-        "Zed Juice": 50,
-        ZedBull: 6000,
-        "Unrefined Plastic": 30000,
-        Thread: 1500,
-    };
-
-    if (itemWorthList.hasOwnProperty(itemName)) {
-        return itemWorthList[itemName];
+// 查询物品价值表
+async function getWorthPrice(itemName) {
+    const itemWorthDocument = await itemWorthsCollection.findOne({ itemName: itemName });
+    if (itemWorthDocument) {
+        return Number(itemWorthDocument.price);
     } else {
         console.log("getWorthPrice can not find " + itemName);
         return 0;
+    }
+}
+
+// 将数据库中未记账的log记账
+async function accountLogs() {
+    let accountedNum = 0;
+    const cursor = await logsCollection.find({ isAccounted: { $in: [null, false] } });
+    const array = await cursor.toArray();
+    for (const document of array) {
+        try {
+            await addLogToRecordBook(document);
+            accountedNum += 1;
+        } catch (e) {
+            console.error(e);
+        }
+    }
+    if (accountedNum > 0) {
+        console.log("Accounted previously unaccounted logs: " + accountedNum);
     }
 }
