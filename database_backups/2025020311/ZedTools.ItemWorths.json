@@ -1,0 +1,497 @@
+[{
+  "_id": {
+    "$oid": "679725b5bf8714ca6e5a02d2"
+  },
+  "itemName": "Logs",
+  "price": 10
+},
+{
+  "_id": {
+    "$oid": "679725b5bf8714ca6e5a02d3"
+  },
+  "itemName": "Coal",
+  "price": 25
+},
+{
+  "_id": {
+    "$oid": "679725b5bf8714ca6e5a02d4"
+  },
+  "itemName": "Gun Powder",
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "679725b5bf8714ca6e5a02d5"
+  },
+  "itemName": "Scrap",
+  "price": 11
+},
+{
+  "_id": {
+    "$oid": "679725b5bf8714ca6e5a02d6"
+  },
+  "itemName": "Iron Bar",
+  "price": 120
+},
+{
+  "_id": {
+    "$oid": "679725b5bf8714ca6e5a02d7"
+  },
+  "itemName": "Nails",
+  "price": 15
+},
+{
+  "_id": {
+    "$oid": "679725b5bf8714ca6e5a02d8"
+  },
+  "itemName": "Steel",
+  "price": 245
+},
+{
+  "_id": {
+    "$oid": "679725b5bf8714ca6e5a02d9"
+  },
+  "itemName": "Wire",
+  "price": 2500
+},
+{
+  "_id": {
+    "$oid": "679725b5bf8714ca6e5a02da"
+  },
+  "itemName": "Rope",
+  "price": 10000
+},
+{
+  "_id": {
+    "$oid": "679725b5bf8714ca6e5a02db"
+  },
+  "itemName": "Plastic",
+  "price": 10000
+},
+{
+  "_id": {
+    "$oid": "679725b5bf8714ca6e5a02dc"
+  },
+  "itemName": "Tarp",
+  "price": 8000
+},
+{
+  "_id": {
+    "$oid": "679725b5bf8714ca6e5a02dd"
+  },
+  "itemName": "Fuel",
+  "price": 6000
+},
+{
+  "_id": {
+    "$oid": "679725b5bf8714ca6e5a02de"
+  },
+  "itemName": "Water",
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "679725b5bf8714ca6e5a02df"
+  },
+  "itemName": "Barley Seeds",
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "679725b5bf8714ca6e5a02e0"
+  },
+  "itemName": "Gears",
+  "price": 8000
+},
+{
+  "_id": {
+    "$oid": "679725b5bf8714ca6e5a02e1"
+  },
+  "itemName": "Cooked Fish",
+  "price": 180
+},
+{
+  "_id": {
+    "$oid": "679725b5bf8714ca6e5a02e2"
+  },
+  "itemName": "Beer",
+  "price": 300
+},
+{
+  "_id": {
+    "$oid": "679725b5bf8714ca6e5a02e3"
+  },
+  "itemName": "e-Cola",
+  "price": 4000
+},
+{
+  "_id": {
+    "$oid": "679725b5bf8714ca6e5a02e4"
+  },
+  "itemName": "Explosives",
+  "price": 70000
+},
+{
+  "_id": {
+    "$oid": "679725b5bf8714ca6e5a02e5"
+  },
+  "itemName": "Pistol Ammo",
+  "price": 92
+},
+{
+  "_id": {
+    "$oid": "679725b5bf8714ca6e5a02e6"
+  },
+  "itemName": "Silver key",
+  "price": 5000
+},
+{
+  "_id": {
+    "$oid": "679725b5bf8714ca6e5a02e7"
+  },
+  "itemName": "Advanced Tools",
+  "price": 30000
+},
+{
+  "_id": {
+    "$oid": "679725b5bf8714ca6e5a02e8"
+  },
+  "itemName": "Pickaxe",
+  "price": 1900
+},
+{
+  "_id": {
+    "$oid": "679725b5bf8714ca6e5a02e9"
+  },
+  "itemName": "Wooden Fishing Rod",
+  "price": 2500
+},
+{
+  "_id": {
+    "$oid": "679725b5bf8714ca6e5a02ea"
+  },
+  "itemName": "Zed Pack",
+  "price": 80000
+},
+{
+  "_id": {
+    "$oid": "679725b5bf8714ca6e5a02eb"
+  },
+  "itemName": "Chocolate",
+  "price": 850
+},
+{
+  "_id": {
+    "$oid": "679725b5bf8714ca6e5a02ec"
+  },
+  "itemName": "Zed Juice",
+  "price": 35
+},
+{
+  "_id": {
+    "$oid": "679725b5bf8714ca6e5a02ed"
+  },
+  "itemName": "ZedBull",
+  "price": 8000
+},
+{
+  "_id": {
+    "$oid": "679725b5bf8714ca6e5a02ee"
+  },
+  "itemName": "Unrefined Plastic",
+  "price": 40000
+},
+{
+  "_id": {
+    "$oid": "679725b5bf8714ca6e5a02ef"
+  },
+  "itemName": "Thread",
+  "price": 2000
+},
+{
+  "_id": {
+    "$oid": "679727fabf8714ca6e5a02f9"
+  },
+  "itemName": "Cement",
+  "price": 5000
+},
+{
+  "_id": {
+    "$oid": "679727fabf8714ca6e5a02fa"
+  },
+  "itemName": "Dirty Water",
+  "price": 85
+},
+{
+  "_id": {
+    "$oid": "679727fabf8714ca6e5a02fb"
+  },
+  "itemName": "Shotgun Slug",
+  "price": 180
+},
+{
+  "_id": {
+    "$oid": "679727fabf8714ca6e5a02fc"
+  },
+  "itemName": "Lockpick",
+  "price": 210
+},
+{
+  "_id": {
+    "$oid": "679728a2bf8714ca6e5a030b"
+  },
+  "itemName": "手动平账1k元",
+  "price": 1000
+},
+{
+  "_id": {
+    "$oid": "67973a02bf8714ca6e5a0321"
+  },
+  "itemName": "Police RFID",
+  "price": 0
+},
+{
+  "_id": {
+    "$oid": "67973a02bf8714ca6e5a0322"
+  },
+  "itemName": "Simple Ammo",
+  "price": 30
+},
+{
+  "_id": {
+    "$oid": "67973a02bf8714ca6e5a0323"
+  },
+  "itemName": "Lighter",
+  "price": 0
+},
+{
+  "_id": {
+    "$oid": "67973a02bf8714ca6e5a0324"
+  },
+  "itemName": "Baseball Bat",
+  "price": 0
+},
+{
+  "_id": {
+    "$oid": "67973a02bf8714ca6e5a0325"
+  },
+  "itemName": "Desert Eagle",
+  "price": 0
+},
+{
+  "_id": {
+    "$oid": "67973a02bf8714ca6e5a0326"
+  },
+  "itemName": "Cloth",
+  "price": 300
+},
+{
+  "_id": {
+    "$oid": "67973a02bf8714ca6e5a0327"
+  },
+  "itemName": "Carp",
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "67973a02bf8714ca6e5a0328"
+  },
+  "itemName": "Canned Food",
+  "price": 5
+},
+{
+  "_id": {
+    "$oid": "67973a02bf8714ca6e5a0329"
+  },
+  "itemName": "Baton",
+  "price": 0
+},
+{
+  "_id": {
+    "$oid": "67973a02bf8714ca6e5a032a"
+  },
+  "itemName": "Bandage",
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "67973a02bf8714ca6e5a032b"
+  },
+  "itemName": "Whiskey",
+  "price": 800
+},
+{
+  "_id": {
+    "$oid": "67973a02bf8714ca6e5a032c"
+  },
+  "itemName": "Small Med Kit",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "67973a02bf8714ca6e5a032d"
+  },
+  "itemName": "Lucky coin",
+  "price": 0
+},
+{
+  "_id": {
+    "$oid": "67973a02bf8714ca6e5a032e"
+  },
+  "itemName": "Shotgun",
+  "price": 0
+},
+{
+  "_id": {
+    "$oid": "67973a02bf8714ca6e5a032f"
+  },
+  "itemName": "SMG",
+  "price": 0
+},
+{
+  "_id": {
+    "$oid": "67973a02bf8714ca6e5a0330"
+  },
+  "itemName": "Generals RFID",
+  "price": 0
+},
+{
+  "_id": {
+    "$oid": "67973a02bf8714ca6e5a0331"
+  },
+  "itemName": "Flux",
+  "price": 800
+},
+{
+  "_id": {
+    "$oid": "67973a02bf8714ca6e5a0332"
+  },
+  "itemName": "Bass",
+  "price": 30
+},
+{
+  "_id": {
+    "$oid": "67973a02bf8714ca6e5a0333"
+  },
+  "itemName": "Perch",
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "67973babbf8714ca6e5a0338"
+  },
+  "itemName": "Med Kit",
+  "price": 300
+},
+{
+  "_id": {
+    "$oid": "67973babbf8714ca6e5a0339"
+  },
+  "itemName": "Iron Ore",
+  "price": 40
+},
+{
+  "_id": {
+    "$oid": "67973babbf8714ca6e5a033a"
+  },
+  "itemName": "Spear",
+  "price": 0
+},
+{
+  "_id": {
+    "$oid": "67973babbf8714ca6e5a033b"
+  },
+  "itemName": "Fire Axe",
+  "price": 0
+},
+{
+  "_id": {
+    "$oid": "67973babbf8714ca6e5a033c"
+  },
+  "itemName": "Switchblade",
+  "price": 0
+},
+{
+  "_id": {
+    "$oid": "67973babbf8714ca6e5a033d"
+  },
+  "itemName": "Camo Hat",
+  "price": 0
+},
+{
+  "_id": {
+    "$oid": "67973babbf8714ca6e5a033e"
+  },
+  "itemName": "Army Helmet",
+  "price": 0
+},
+{
+  "_id": {
+    "$oid": "67973babbf8714ca6e5a033f"
+  },
+  "itemName": "AK-74u",
+  "price": 0
+},
+{
+  "_id": {
+    "$oid": "67973babbf8714ca6e5a0340"
+  },
+  "itemName": "Barley",
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "67973babbf8714ca6e5a0341"
+  },
+  "itemName": "Steel Fishing Rod",
+  "price": 0
+},
+{
+  "_id": {
+    "$oid": "67973babbf8714ca6e5a0342"
+  },
+  "itemName": "Bow",
+  "price": 0
+},
+{
+  "_id": {
+    "$oid": "67973babbf8714ca6e5a0343"
+  },
+  "itemName": "Morphine",
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "67973babbf8714ca6e5a0344"
+  },
+  "itemName": "Wrench",
+  "price": 0
+},
+{
+  "_id": {
+    "$oid": "67973babbf8714ca6e5a0345"
+  },
+  "itemName": "Vodka",
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "67973cc0bf8714ca6e5a034c"
+  },
+  "itemName": "Sawnoff",
+  "price": 0
+},
+{
+  "_id": {
+    "$oid": "679a4149c86f5628b3378ef8"
+  },
+  "itemName": "Brick",
+  "price": 10000
+},
+{
+  "_id": {
+    "$oid": "679a4149c86f5628b3378ef9"
+  },
+  "itemName": "Barricade",
+  "price": 50000
+}]

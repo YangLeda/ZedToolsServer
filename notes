@@ -1,8 +1,6 @@
 pm2 commands:
 pm2 start node ZedToolsServer.js
 pm2 delete all
-
-View realtime pm2 logs in a seperate terminal:
 pm2 logs
 
 MongoDB installation:
@@ -32,17 +30,17 @@ db.FactionLogs.find()
 { "itemName": "Vodka", "price": 0 },
 ]
 
-ID 11662
+bot7420 ID 11662
 
 {
-"logType": "faction_add_item",
-"timestamp": 1737968216,
-"userId": 11662,
-"userName": "bot7420",
-"itemQty": "600",
-"itemName": "手动平账 1k 元",
-"factionName": "",
-"uploaderName": "手动",
-"isAccounted": false,
-"description": "接受赠与和捐献帮派"
+  "logType": "faction_add_item",
+  "timestamp": 1737968216,
+  "userId": 11578,
+  "userName": "Taoist",
+  "itemQty": "1000",
+  "itemName": "手动平账1k元",
+  "factionName": "",
+  "uploaderName": "手动",
+  "isAccounted": false,
+  "description": "找江总代氪dp1个"
 }
