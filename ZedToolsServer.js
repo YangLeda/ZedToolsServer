@@ -82,6 +82,17 @@ app.get("/faction-item-records", async (req, res) => {
     res.status(200).json({ recordBook: resultObj, estimatedDocumentCount: estimatedDocumentCount });
 });
 
+app.get("/item-worths", async (req, res) => {
+    console.log("---------- GET: " + req.originalUrl);
+
+    const resultObj = {};
+    for (const d of await itemWorthsCollection.find().toArray()) {
+        resultObj[d.itemName] = d;
+    }
+
+    res.status(200).json(resultObj);
+});
+
 app.post("/upload-faction-logs/", async (req, res) => {
     console.log("---------- POST: " + req.originalUrl);
     const json = req.body;
@@ -133,6 +144,11 @@ async function addLogToRecordBook(document) {
             ? Number(bookDocument.items[document.itemName]) + Number(document.itemQty)
             : Number(document.itemQty);
         bookDocument.balance += Number(document.itemQty) * (await getWorthPrice(document.itemName));
+    }
+
+    // update latestLogTimestamp
+    if (!bookDocument.latestLogTimestamp || (bookDocument.latestLogTimestamp && bookDocument.latestLogTimestamp < document.timestamp)) {
+        bookDocument.latestLogTimestamp = document.timestamp;
     }
 
     document.isAccounted = true;

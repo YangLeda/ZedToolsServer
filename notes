@@ -14,7 +14,7 @@ show collections
 db.FactionLogs.find()
 
 [
-{ "itemName": "Sawnoff", "price": 0 },
+{ "itemName": "声望", "price": 100 },
 { "itemName": "Iron Ore", "price": 0 },
 { "itemName": "Spear", "price": 0 },
 { "itemName": "Fire Axe", "price": 0 },
