@@ -1,0 +1,4518 @@
+[{
+  "_id": {
+    "$oid": "679a47161dae3fa5e238ff52"
+  },
+  "playerId": 11746,
+  "playerNames": [
+    "cosing"
+  ],
+  "items": {
+    "Nails": 24701,
+    "Steel": -126,
+    "Dirty Water": 106,
+    "Gun Powder": 100,
+    "Pistol Ammo": 50,
+    "Barley Seeds": 286,
+    "Water": 66,
+    "Coal": 0,
+    "Pickaxe": -2,
+    "Police RFID": 0,
+    "Iron Bar": 20,
+    "Logs": 3269,
+    "Wire": 63,
+    "Scrap": 0,
+    "Simple Ammo": 5,
+    "Perch": 1,
+    "Zed Juice": 228,
+    "Fuel": 344,
+    "Tarp": 3,
+    "Cloth": -33,
+    "Advanced Tools": -1,
+    "Thread": 23,
+    "Silver key": 1,
+    "Wooden Fishing Rod": 0,
+    "Generals RFID": 0,
+    "声望": 2953.8999999999996,
+    "Security Card": 4,
+    "ZedBull": -1,
+    "Flux": 50,
+    "Rope": 10,
+    "e-Cola": 20
+  },
+  "balance": 1641397,
+  "latestLogTimestamp": 1739973866
+},
+{
+  "_id": {
+    "$oid": "679a47161dae3fa5e238ff53"
+  },
+  "playerId": 11666,
+  "playerNames": [
+    "Ai9328"
+  ],
+  "items": {
+    "Shotgun Slug": 865,
+    "Iron Bar": -483,
+    "Gun Powder": -1955,
+    "Simple Ammo": -115,
+    "Pistol Ammo": -100,
+    "Chocolate": -879,
+    "Rope": -3,
+    "Tarp": -25,
+    "Flux": -5,
+    "Nails": 4136,
+    "Wire": 39,
+    "Steel": -433,
+    "Scrap": 3880,
+    "Water": 10,
+    "Pickaxe": 6,
+    "Bandage": -32,
+    "Desert Eagle": -1,
+    "Fuel": 50,
+    "Zed Pack": 14,
+    "Coal": 150,
+    "Dirty Water": 40,
+    "Police RFID": 0,
+    "Silver key": 0,
+    "Logs": 4080,
+    "Barley Seeds": 50,
+    "Plastic": 2,
+    "Cooked Fish": 39,
+    "Bass": 0,
+    "Whiskey": 3,
+    "Canned Food": 2,
+    "Wooden Fishing Rod": 6,
+    "Advanced Tools": 8,
+    "Generals RFID": 0,
+    "Lockpick": -6,
+    "Explosives": 1,
+    "Gears": 13,
+    "Perch": -30,
+    "Cement": -14,
+    "Brick": -10,
+    "Zed Juice": 569,
+    "Shotgun": -1,
+    "Unrefined Plastic": 5,
+    "Security Card": -1,
+    "声望": 2661.6
+  },
+  "balance": 896211,
+  "latestLogTimestamp": 1739944528
+},
+{
+  "_id": {
+    "$oid": "679a47161dae3fa5e238ff54"
+  },
+  "playerId": 11641,
+  "playerNames": [
+    "Comi"
+  ],
+  "items": {
+    "Wire": 65,
+    "Steel": 72,
+    "Lockpick": -6,
+    "Shotgun Slug": -168,
+    "Simple Ammo": 105,
+    "Iron Bar": -422,
+    "Gun Powder": 1048,
+    "Generals RFID": 0,
+    "Advanced Tools": 17,
+    "Zed Juice": -363,
+    "Rope": -2,
+    "Thread": 28,
+    "Chocolate": -840,
+    "e-Cola": 1,
+    "Water": 231,
+    "Barley Seeds": 349,
+    "Coal": -230,
+    "Dirty Water": -223,
+    "Logs": 4487,
+    "Vodka": 38,
+    "Fuel": -670,
+    "Nails": 9577,
+    "Police RFID": 0,
+    "Zed Pack": -7,
+    "Cooked Fish": -99,
+    "Plastic": 2,
+    "Tarp": 57,
+    "Silver key": 0,
+    "Bandage": -15,
+    "Flux": 47,
+    "Explosives": 3,
+    "Pickaxe": 14,
+    "Gears": 118,
+    "手动平账1k元": 70,
+    "Unrefined Plastic": 17,
+    "Cement": 201,
+    "Cloth": 6,
+    "Scrap": -9204,
+    "Iron Ore": -6,
+    "Brick": 124,
+    "Barricade": 5,
+    "声望": 2680.1000000000004,
+    "Whiskey": 8,
+    "Security Card": -3
+  },
+  "balance": 5899,
+  "latestLogTimestamp": 1739955762
+},
+{
+  "_id": {
+    "$oid": "679a47161dae3fa5e238ff55"
+  },
+  "playerId": 11578,
+  "playerNames": [
+    "Taoist"
+  ],
+  "items": {
+    "Thread": 10,
+    "Flux": -6,
+    "Plastic": -14,
+    "Rope": -13,
+    "Advanced Tools": 31,
+    "Fuel": -920,
+    "Iron Bar": -770,
+    "Gears": 178,
+    "Gun Powder": 1774,
+    "Scrap": 3936,
+    "Steel": 126,
+    "Tarp": 186,
+    "Beer": 25,
+    "e-Cola": 48,
+    "Dirty Water": 88,
+    "Chocolate": -159,
+    "Cooked Fish": -132,
+    "Coal": 487,
+    "Barley Seeds": 190,
+    "Nails": 5407,
+    "Wire": 75,
+    "Wooden Fishing Rod": -6,
+    "Pickaxe": 0,
+    "Simple Ammo": 5,
+    "Zed Juice": 279,
+    "Logs": 2997,
+    "Generals RFID": 2,
+    "Water": -58,
+    "Wrench": -2,
+    "Police RFID": 0,
+    "Baseball Bat": -6,
+    "Zed Pack": -10,
+    "Perch": -3,
+    "Spear": 3,
+    "Silver key": -1,
+    "Canned Food": 83,
+    "Cloth": 8,
+    "Lockpick": -90,
+    "Shotgun Slug": -252,
+    "Explosives": 25,
+    "Pistol Ammo": -30,
+    "Small Med Kit": 1,
+    "Cement": -119,
+    "Brick": -73,
+    "Barricade": 8,
+    "Vodka": 22,
+    "Whiskey": -27,
+    "Unrefined Plastic": 10,
+    "手动平账1k元": 70,
+    "Iron Ore": -298,
+    "ZedBull": -4,
+    "Switchblade": -1,
+    "声望": 2665.5000000000005,
+    "Carp": -3,
+    "Security Card": 3
+  },
+  "balance": 507548,
+  "latestLogTimestamp": 1739974487
+},
+{
+  "_id": {
+    "$oid": "679a47161dae3fa5e238ff56"
+  },
+  "playerId": 11131,
+  "playerNames": [
+    "ELECTRONIC"
+  ],
+  "items": {
+    "Water": 658,
+    "Dirty Water": -477,
+    "Barley Seeds": 274,
+    "Cooked Fish": 201,
+    "Pickaxe": 0,
+    "Beer": 0,
+    "Wooden Fishing Rod": 0,
+    "Advanced Tools": 9,
+    "Fuel": 116,
+    "Chocolate": 148,
+    "Nails": 12890,
+    "Logs": 7309,
+    "Coal": 300,
+    "e-Cola": 64,
+    "Rope": 0,
+    "Iron Bar": -184,
+    "Wire": 20,
+    "Zed Pack": -2,
+    "Steel": 56,
+    "Plastic": -2,
+    "Tarp": 2,
+    "Zed Juice": 122,
+    "Scrap": 1,
+    "Police RFID": -1,
+    "Flux": 1,
+    "Bandage": 1,
+    "Silver key": 1,
+    "Gun Powder": 711,
+    "Generals RFID": 0,
+    "Lockpick": -3,
+    "Security Card": 3,
+    "Cement": 25,
+    "Brick": 2,
+    "Gears": 17,
+    "ZedBull": 3,
+    "声望": 2497.3,
+    "Explosives": 3
+  },
+  "balance": 1978035,
+  "latestLogTimestamp": 1739961686
+},
+{
+  "_id": {
+    "$oid": "679a47161dae3fa5e238ff57"
+  },
+  "playerId": 11711,
+  "playerNames": [
+    "DeadBear"
+  ],
+  "items": {
+    "SMG": 1,
+    "Zed Pack": 1,
+    "Zed Juice": 178,
+    "Wire": 74,
+    "Water": 37,
+    "Thread": 14,
+    "Switchblade": 1,
+    "Steel": 14,
+    "Small Med Kit": 3,
+    "Shotgun": 1,
+    "Sawnoff": 1,
+    "Rope": 9,
+    "Plastic": 7,
+    "Pistol Ammo": 25,
+    "Nails": 10505,
+    "Logs": 260,
+    "Lighter": 4,
+    "Iron Ore": 6,
+    "Iron Bar": 1484,
+    "Gun Powder": 1095,
+    "Gears": 11,
+    "Fuel": 79,
+    "Flux": 50,
+    "e-Cola": 2,
+    "Dirty Water": 76,
+    "Desert Eagle": 1,
+    "Cooked Fish": 155,
+    "Coal": 145,
+    "Cloth": 6,
+    "Chocolate": 56,
+    "Canned Food": 202,
+    "Beer": 15,
+    "Barley Seeds": 150,
+    "Bandage": 19,
+    "Pickaxe": 1,
+    "Silver key": 0,
+    "手动平账1k元": -1000
+  },
+  "balance": 518484
+},
+{
+  "_id": {
+    "$oid": "679a47161dae3fa5e238ff58"
+  },
+  "playerId": 11757,
+  "playerNames": [
+    "SuperBooster"
+  ],
+  "items": {
+    "Fuel": 297,
+    "Zed Pack": 45,
+    "Zed Juice": 267,
+    "Coal": 1012,
+    "Logs": 2301,
+    "Steel": 343,
+    "e-Cola": 15,
+    "Thread": 30,
+    "Nails": -95548,
+    "Scrap": 6054,
+    "Cloth": 46,
+    "Chocolate": 299,
+    "Wire": -131,
+    "Gun Powder": 527,
+    "Pickaxe": -21,
+    "Dirty Water": -1043,
+    "Water": 1134,
+    "Pistol Ammo": 102,
+    "Barley Seeds": 108,
+    "Wrench": 2,
+    "Bandage": -3,
+    "Rope": 6,
+    "Plastic": 4,
+    "Tarp": -3,
+    "Police RFID": 0,
+    "Wooden Fishing Rod": 0,
+    "Iron Bar": -1600,
+    "Spear": -2,
+    "Cooked Fish": 59,
+    "Iron Ore": 0,
+    "Bow": 1,
+    "Baseball Bat": 2,
+    "Gears": 9,
+    "Perch": 28,
+    "Advanced Tools": -11,
+    "Beer": -130,
+    "声望": 1394.6,
+    "Silver key": 1,
+    "Whiskey": 16,
+    "Fuel Injector": 1,
+    "Flux": 50
+  },
+  "balance": 4145045,
+  "latestLogTimestamp": 1739944528
+},
+{
+  "_id": {
+    "$oid": "679a47161dae3fa5e238ff59"
+  },
+  "playerId": 11705,
+  "playerNames": [
+    "weiming"
+  ],
+  "items": {
+    "Generals RFID": 0,
+    "Nails": 13767,
+    "Wire": 86,
+    "Advanced Tools": 0,
+    "Rope": 3,
+    "Dirty Water": 133,
+    "Barley Seeds": 232,
+    "Water": 46,
+    "Beer": 18,
+    "Bandage": 18,
+    "Zed Pack": 0,
+    "Chocolate": 82,
+    "Iron Bar": -79,
+    "Steel": -10,
+    "Zed Juice": 139,
+    "Barley": 0,
+    "Police RFID": 1,
+    "Cooked Fish": 43,
+    "Tarp": 0,
+    "Silver key": 0,
+    "Thread": 7,
+    "Small Med Kit": 2,
+    "SMG": 1,
+    "Simple Ammo": 5,
+    "Shotgun": 1,
+    "Scrap": 879,
+    "Plastic": 23,
+    "Perch": 54,
+    "Lucky coin": 1,
+    "Logs": 1627,
+    "Iron Ore": 81,
+    "Gun Powder": 140,
+    "Gears": 7,
+    "Fuel": 102,
+    "Flux": 45,
+    "Fire Axe": 1,
+    "e-Cola": 6,
+    "Desert Eagle": 1,
+    "Coal": 2109,
+    "Cloth": 56,
+    "Carp": 3,
+    "Canned Food": 5,
+    "Baton": 1
+  },
+  "balance": 1567990
+},
+{
+  "_id": {
+    "$oid": "679a47161dae3fa5e238ff5a"
+  },
+  "playerId": 11917,
+  "playerNames": [
+    "lvdougao"
+  ],
+  "items": {
+    "Water": 34,
+    "Dirty Water": 56,
+    "Barley Seeds": 105,
+    "Iron Bar": 0,
+    "声望": 1672.1999999999998
+  },
+  "balance": 184780,
+  "latestLogTimestamp": 1739965259
+},
+{
+  "_id": {
+    "$oid": "679a47161dae3fa5e238ff5b"
+  },
+  "playerId": 11728,
+  "playerNames": [
+    "Ciri"
+  ],
+  "items": {
+    "Generals RFID": 6,
+    "Zed Juice": 1101,
+    "Barley Seeds": 246,
+    "Dirty Water": -11,
+    "Nails": -438,
+    "Iron Bar": 6,
+    "Logs": -8145,
+    "Wire": -20,
+    "Tarp": 53,
+    "Scrap": -3933,
+    "Small Med Kit": 1,
+    "Med Kit": 2,
+    "Gun Powder": 1665,
+    "Gears": 158,
+    "Iron Ore": 70,
+    "Flux": 72,
+    "Water": 62,
+    "Pistol Ammo": -45,
+    "Rope": 4,
+    "Advanced Tools": 17,
+    "Steel": 23,
+    "Wooden Fishing Rod": 1,
+    "Chocolate": 4,
+    "Pickaxe": 0,
+    "Zed Pack": -2,
+    "Silver key": -1,
+    "Plastic": -24,
+    "Thread": 1,
+    "Beer": 0,
+    "Lockpick": 34,
+    "Shotgun Slug": -80,
+    "Fuel": -167,
+    "Cooked Fish": -73,
+    "Brick": 1,
+    "Cement": 33,
+    "ZedBull": 3,
+    "Explosives": 13,
+    "Security Card": 4,
+    "声望": 2612.500000000001,
+    "Unrefined Plastic": 7,
+    "Barricade": 6
+  },
+  "balance": 1954673,
+  "latestLogTimestamp": 1739969231
+},
+{
+  "_id": {
+    "$oid": "679a47161dae3fa5e238ff5c"
+  },
+  "playerId": 11700,
+  "playerNames": [
+    "Mocang"
+  ],
+  "items": {
+    "Water": 110,
+    "Barley Seeds": 265,
+    "Tarp": -6,
+    "Scrap": 3900,
+    "Nails": -5717,
+    "Chocolate": 17,
+    "Steel": 117,
+    "Wire": 15,
+    "Zed Pack": -1,
+    "Rope": 4,
+    "Plastic": 28,
+    "Bandage": 2,
+    "Zed Juice": 52,
+    "Dirty Water": -44,
+    "Logs": 605,
+    "Silver key": 1,
+    "Advanced Tools": 0,
+    "Police RFID": 0,
+    "Generals RFID": 0,
+    "声望": 2491.3999999999996
+  },
+  "balance": 432928,
+  "latestLogTimestamp": 1739944528
+},
+{
+  "_id": {
+    "$oid": "679a47171dae3fa5e238ff5d"
+  },
+  "playerId": 11648,
+  "playerNames": [
+    "HuskySGT"
+  ],
+  "items": {
+    "Zed Juice": 707,
+    "Fuel": 75,
+    "Barley Seeds": 191,
+    "Nails": -170,
+    "Water": 53,
+    "Dirty Water": 97,
+    "Steel": 165,
+    "Logs": 2520,
+    "Cloth": -4,
+    "Iron Bar": -91,
+    "Chocolate": 19,
+    "Rope": 2,
+    "Coal": -50,
+    "Tarp": -1,
+    "Scrap": 1100,
+    "Zed Pack": -1,
+    "Baseball Bat": 2,
+    "声望": 2096.2,
+    "Advanced Tools": -1,
+    "Generals RFID": 0,
+    "Security Card": 1,
+    "Thread": 24
+  },
+  "balance": 786505,
+  "latestLogTimestamp": 1739841958
+},
+{
+  "_id": {
+    "$oid": "679a47171dae3fa5e238ff5e"
+  },
+  "playerId": 11704,
+  "playerNames": [
+    "Asteriea"
+  ],
+  "items": {
+    "Pickaxe": 2,
+    "Fuel": 89,
+    "Tarp": -1,
+    "Baseball Bat": 3,
+    "Nails": 40063,
+    "Plastic": 16,
+    "Steel": 1,
+    "Zed Pack": -1,
+    "Spear": 0,
+    "Zed Juice": 142,
+    "Iron Bar": 347,
+    "Logs": 10598,
+    "Barley Seeds": 161,
+    "Dirty Water": 112,
+    "Advanced Tools": 0,
+    "Generals RFID": 0,
+    "Wire": 36,
+    "Flux": 45,
+    "e-Cola": 33,
+    "Chocolate": 18,
+    "Gears": 10,
+    "Rope": 6,
+    "Perch": 4,
+    "Thread": 6,
+    "Scrap": 613,
+    "Coal": 334,
+    "Police RFID": 1,
+    "Pistol Ammo": 50,
+    "Cloth": 56,
+    "Cooked Fish": 33,
+    "Lucky coin": 1,
+    "Gun Powder": 40,
+    "Security Card": 1,
+    "Silver key": 1,
+    "Canned Food": 42,
+    "Bandage": 7,
+    "Beer": 21,
+    "Desert Eagle": 2,
+    "SMG": 1,
+    "Shotgun": 1,
+    "Simple Ammo": 5,
+    "Small Med Kit": 3,
+    "Water": 30,
+    "Carp": 3,
+    "Iron Ore": 100,
+    "Baton": 0,
+    "Switchblade": 1
+  },
+  "balance": 1898944
+},
+{
+  "_id": {
+    "$oid": "679a47171dae3fa5e238ff5f"
+  },
+  "playerId": 11662,
+  "playerNames": [
+    "bot7420"
+  ],
+  "items": {
+    "Advanced Tools": 14,
+    "Wire": -81,
+    "Pistol Ammo": 50,
+    "Desert Eagle": 1,
+    "Lockpick": 450,
+    "Nails": -18417,
+    "Iron Bar": 450,
+    "Tarp": 59,
+    "e-Cola": -206,
+    "Zed Pack": 25,
+    "Water": 29,
+    "Dirty Water": 89,
+    "Barley Seeds": 135,
+    "Rope": -3,
+    "Beer": 0,
+    "Logs": 1000,
+    "Zed Juice": 58,
+    "Fuel": -355,
+    "Gears": -153,
+    "Plastic": -11,
+    "Brick": -63,
+    "Cement": 61,
+    "手动平账1k元": 1000,
+    "Morphine": 1,
+    "Generals RFID": 0,
+    "Security Card": -2,
+    "Bandage": -11,
+    "Explosives": -2,
+    "Thread": 15,
+    "Unrefined Plastic": 3,
+    "Flux": 7,
+    "声望": 2268.6,
+    "Barricade": -4,
+    "Iron Ore": 96,
+    "Canned Food": 8
+  },
+  "balance": 594086,
+  "latestLogTimestamp": 1739886828
+},
+{
+  "_id": {
+    "$oid": "679a47171dae3fa5e238ff60"
+  },
+  "playerId": 11823,
+  "playerNames": [
+    "HaveBear"
+  ],
+  "items": {
+    "Dirty Water": 65,
+    "Barley Seeds": 168,
+    "Nails": 1050,
+    "Zed Juice": -431,
+    "Logs": 850,
+    "Police RFID": 1,
+    "声望": 1924.3999999999999
+  },
+  "balance": 210745,
+  "latestLogTimestamp": 1739955762
+},
+{
+  "_id": {
+    "$oid": "679a47171dae3fa5e238ff61"
+  },
+  "playerId": 11706,
+  "playerNames": [
+    "zaol"
+  ],
+  "items": {
+    "Water": 142,
+    "Barley Seeds": 203,
+    "Cooked Fish": -45,
+    "Nails": -3159,
+    "Wire": -3,
+    "Steel": 215,
+    "Rope": -2,
+    "Plastic": 4,
+    "Tarp": 0,
+    "Iron Bar": -100,
+    "Logs": 700,
+    "Dirty Water": -5,
+    "Generals RFID": 0,
+    "Advanced Tools": -7,
+    "Security Card": 2,
+    "e-Cola": 4,
+    "声望": 1819.5000000000002,
+    "Fuel": 414,
+    "Cement": -20,
+    "Brick": -10,
+    "Silver key": -1
+  },
+  "balance": 688832,
+  "latestLogTimestamp": 1739957459
+},
+{
+  "_id": {
+    "$oid": "679a47171dae3fa5e238ff62"
+  },
+  "playerId": 11775,
+  "playerNames": [
+    "yinhu"
+  ],
+  "items": {
+    "Barley Seeds": 92,
+    "Coal": -300,
+    "Nails": 1434,
+    "Tarp": -8,
+    "Pickaxe": 1,
+    "Dirty Water": 45,
+    "Chocolate": 4,
+    "Zed Juice": 500,
+    "Logs": 500,
+    "Rope": 9,
+    "声望": 1663.8,
+    "Water": 27,
+    "Vodka": 12,
+    "Silver key": 0,
+    "Advanced Tools": -1,
+    "Generals RFID": 0,
+    "Security Card": -1
+  },
+  "balance": 220533,
+  "latestLogTimestamp": 1739963542
+},
+{
+  "_id": {
+    "$oid": "679a47171dae3fa5e238ff63"
+  },
+  "playerId": 11653,
+  "playerNames": [
+    "KobeBryant"
+  ],
+  "items": {
+    "Water": 50,
+    "Barley Seeds": 35,
+    "Spear": -1,
+    "Iron Bar": 60
+  },
+  "balance": 14800
+},
+{
+  "_id": {
+    "$oid": "679a47171dae3fa5e238ff64"
+  },
+  "playerId": 11729,
+  "playerNames": [
+    "tlxwl"
+  ],
+  "items": {
+    "Silver key": 0,
+    "Pickaxe": 0,
+    "Tarp": 2,
+    "Flux": 15,
+    "Scrap": 3000,
+    "Nails": 3259,
+    "Logs": 1078,
+    "Zed Pack": -1,
+    "Dirty Water": 166,
+    "Barley Seeds": 190,
+    "Steel": -25,
+    "Police RFID": 0,
+    "Zed Juice": 327,
+    "Advanced Tools": 4,
+    "Lockpick": -2,
+    "Cement": 344,
+    "Brick": 41,
+    "Small Med Kit": 2,
+    "Morphine": 2,
+    "Gun Powder": 170,
+    "e-Cola": 32,
+    "Security Card": 3,
+    "Generals RFID": 0,
+    "Rope": -4,
+    "Explosives": -4,
+    "Shotgun Slug": -30,
+    "Vodka": 1,
+    "Water": 13,
+    "声望": 2639.4000000000005,
+    "Iron Ore": 109,
+    "Barricade": -2,
+    "Simple Ammo": 5,
+    "Fuel": -17
+  },
+  "balance": 1312249,
+  "latestLogTimestamp": 1739955762
+},
+{
+  "_id": {
+    "$oid": "679a47171dae3fa5e238ff65"
+  },
+  "playerId": 11652,
+  "playerNames": [
+    "jaymiko"
+  ],
+  "items": {
+    "Logs": 3450,
+    "Nails": 7500,
+    "Steel": -74,
+    "Iron Bar": -500,
+    "Chocolate": 1,
+    "Scrap": -10,
+    "Cooked Fish": -177,
+    "Wire": -6,
+    "Advanced Tools": -1,
+    "Generals RFID": 0,
+    "声望": 2477
+  },
+  "balance": 218903,
+  "latestLogTimestamp": 1739961686
+},
+{
+  "_id": {
+    "$oid": "679a47181dae3fa5e238ff66"
+  },
+  "playerId": 11645,
+  "playerNames": [
+    "cestbon"
+  ],
+  "items": {
+    "Nails": 1150,
+    "Barley Seeds": 109,
+    "Logs": 1300,
+    "Baseball Bat": -1,
+    "Iron Bar": 15,
+    "Wire": 0,
+    "Steel": -5,
+    "Dirty Water": 16,
+    "Silver key": 0,
+    "声望": 2077.3,
+    "Advanced Tools": -1,
+    "Generals RFID": 0,
+    "Security Card": 0,
+    "Rope": -3,
+    "Fuel": 100,
+    "Water": 27,
+    "Zed Pack": -1
+  },
+  "balance": 286860,
+  "latestLogTimestamp": 1739886828
+},
+{
+  "_id": {
+    "$oid": "679a47181dae3fa5e238ff67"
+  },
+  "playerId": 11800,
+  "playerNames": [
+    "z7a4q1"
+  ],
+  "items": {
+    "Nails": 17730,
+    "Logs": 11417,
+    "Iron Bar": 90,
+    "Dirty Water": 118,
+    "Barley Seeds": 193,
+    "Steel": 14,
+    "Water": 9,
+    "Bandage": 1,
+    "Police RFID": 1,
+    "Silver key": 1,
+    "Scrap": 1991,
+    "Security Card": 6,
+    "Advanced Tools": -1,
+    "e-Cola": 22,
+    "Fuel": 186,
+    "Generals RFID": 0,
+    "声望": 2800.3000000000006,
+    "ZedBull": 2
+  },
+  "balance": 1133231,
+  "latestLogTimestamp": 1739962527
+},
+{
+  "_id": {
+    "$oid": "679a47181dae3fa5e238ff68"
+  },
+  "playerId": 11740,
+  "playerNames": [
+    "Bisloy"
+  ],
+  "items": {
+    "Nails": 11000,
+    "Zed Pack": -2,
+    "Logs": 1000,
+    "Fuel": 0,
+    "Rope": 0,
+    "Generals RFID": 0,
+    "Advanced Tools": 0,
+    "Tarp": -3,
+    "声望": 2327.0000000000005,
+    "Cement": -20,
+    "Brick": -10
+  },
+  "balance": 178200,
+  "latestLogTimestamp": 1739957459
+},
+{
+  "_id": {
+    "$oid": "679a471a1dae3fa5e238ff69"
+  },
+  "playerId": 11765,
+  "playerNames": [
+    "zibba"
+  ],
+  "items": {
+    "Zed Pack": -1,
+    "Iron Bar": 350,
+    "Water": 41,
+    "Barley Seeds": 157,
+    "Nails": 15500,
+    "Steel": 0,
+    "Silver key": 0,
+    "Police RFID": 0,
+    "Simple Ammo": 5,
+    "Pistol Ammo": 50,
+    "Shotgun": 1,
+    "Fire Axe": 1,
+    "Desert Eagle": 1,
+    "Rope": -7,
+    "声望": 2516.4
+  },
+  "balance": 373890,
+  "latestLogTimestamp": 1739953607
+},
+{
+  "_id": {
+    "$oid": "679a471a1dae3fa5e238ff6a"
+  },
+  "playerId": 11814,
+  "playerNames": [
+    "Ziyee"
+  ],
+  "items": {
+    "Barley Seeds": 278,
+    "Dirty Water": 120,
+    "Scrap": 2004,
+    "Bandage": 80,
+    "Police RFID": 0,
+    "Small Med Kit": 1,
+    "Wire": 18,
+    "Water": 83,
+    "Med Kit": 1,
+    "Tarp": -5,
+    "Cooked Fish": 39,
+    "Coal": 293,
+    "Perch": -75,
+    "Steel": 15,
+    "Nails": 738,
+    "Iron Bar": 80,
+    "Carp": -9,
+    "Logs": 3800,
+    "Bass": -19,
+    "Plastic": 3,
+    "Rope": 4,
+    "Pickaxe": 1,
+    "Silver key": 0,
+    "Zed Juice": 357,
+    "声望": 2514.9999999999995,
+    "Advanced Tools": 11,
+    "Morphine": 1,
+    "Security Card": -1,
+    "Generals RFID": 0,
+    "Gun Powder": 100,
+    "Zed Pack": -1
+  },
+  "balance": 535498,
+  "latestLogTimestamp": 1739953607
+},
+{
+  "_id": {
+    "$oid": "679a471b1dae3fa5e238ff6b"
+  },
+  "playerId": 11642,
+  "playerNames": [
+    "angela"
+  ],
+  "items": {
+    "Nails": 5094,
+    "Zed Juice": 742,
+    "Dirty Water": 39,
+    "Barley Seeds": 125,
+    "Beer": -3,
+    "Logs": 3479,
+    "Water": 96,
+    "Scrap": 2313,
+    "Tarp": 5,
+    "Baseball Bat": 6,
+    "Baton": 9,
+    "Wooden Fishing Rod": -4,
+    "Pickaxe": 1,
+    "Plastic": 17,
+    "Advanced Tools": 1,
+    "Zed Pack": 1,
+    "Wire": 37,
+    "Cooked Fish": 28,
+    "Chocolate": 48,
+    "Rope": 22,
+    "Steel": 22,
+    "Bass": 0,
+    "Iron Bar": 0,
+    "Simple Ammo": 5,
+    "Pistol Ammo": 50,
+    "Police RFID": 1,
+    "声望": 511.6,
+    "Canned Food": 32,
+    "e-Cola": 5,
+    "Fish Kebab": 5,
+    "Gun Powder": 259,
+    "Gears": 16,
+    "Fuel": 108,
+    "Coal": 963,
+    "Cement": 10,
+    "Brick": 3
+  },
+  "balance": 977673,
+  "latestLogTimestamp": 1739858211
+},
+{
+  "_id": {
+    "$oid": "679a471b1dae3fa5e238ff6c"
+  },
+  "playerId": 11675,
+  "playerNames": [
+    "mxmk"
+  ],
+  "items": {
+    "Beer": -2,
+    "Nails": 16534,
+    "Coal": -100,
+    "ZedBull": 3,
+    "Wire": 19,
+    "Water": 21,
+    "Steel": -14,
+    "Tarp": 2,
+    "Scrap": 780,
+    "Rope": 3,
+    "Plastic": 28,
+    "Logs": 8053,
+    "Iron Bar": 618,
+    "Fuel": 29,
+    "Flux": 50,
+    "Dirty Water": 50,
+    "Cooked Fish": 23,
+    "Barley Seeds": 123,
+    "Police RFID": 1,
+    "Zed Juice": -606,
+    "Canned Food": 147,
+    "Baseball Bat": 1,
+    "Cloth": 10
+  },
+  "balance": 846020,
+  "latestLogTimestamp": 1736301897
+},
+{
+  "_id": {
+    "$oid": "679a471b1dae3fa5e238ff6d"
+  },
+  "playerId": 11832,
+  "playerNames": [
+    "YellowDuck"
+  ],
+  "items": {
+    "Silver key": 0,
+    "Police RFID": 0,
+    "Nails": 1717,
+    "Zed Juice": -105,
+    "Cooked Fish": -39,
+    "Rope": -1,
+    "Steel": -7,
+    "Logs": 5050,
+    "声望": 1560.5,
+    "Coal": 39,
+    "Wire": 27,
+    "Water": 21,
+    "Thread": 4,
+    "Tarp": 7,
+    "Plastic": 28,
+    "Iron Ore": 58,
+    "Gun Powder": 200,
+    "Gears": 11,
+    "Fuel": 66,
+    "Flux": 50,
+    "Dirty Water": 83,
+    "Cloth": 51,
+    "Barley Seeds": 87
+  },
+  "balance": 562682,
+  "latestLogTimestamp": 1739934459
+},
+{
+  "_id": {
+    "$oid": "679a471b1dae3fa5e238ff6e"
+  },
+  "playerId": 11776,
+  "playerNames": [
+    "SuAlex"
+  ],
+  "items": {
+    "Police RFID": 0,
+    "Gun Powder": 0,
+    "Barley Seeds": 158,
+    "Water": 5,
+    "Silver key": 0,
+    "Logs": 1600,
+    "Cloth": 7,
+    "Zed Juice": 2000,
+    "Nails": -6451,
+    "Wire": -39,
+    "Zed Pack": -3,
+    "Advanced Tools": 13,
+    "Generals RFID": 0,
+    "Fuel": -81,
+    "Lockpick": -5,
+    "Tarp": 48,
+    "Gears": 47,
+    "e-Cola": 11,
+    "Unrefined Plastic": 6,
+    "Barricade": 3,
+    "Iron Bar": -3220,
+    "Plastic": 22,
+    "Security Card": 1,
+    "声望": 2772.1000000000004,
+    "Scrap": -14000,
+    "Cement": 114,
+    "Iron Ore": -512,
+    "Rope": -10,
+    "Explosives": 1
+  },
+  "balance": 475951,
+  "latestLogTimestamp": 1739956479
+},
+{
+  "_id": {
+    "$oid": "679a471b1dae3fa5e238ff6f"
+  },
+  "playerId": 11742,
+  "playerNames": [
+    "bsyno2"
+  ],
+  "items": {
+    "Barley Seeds": 174,
+    "Dirty Water": 27,
+    "Beer": 8,
+    "Fuel": 30,
+    "Nails": 2570,
+    "Rope": -1,
+    "Cooked Fish": -48,
+    "Steel": -25,
+    "Pickaxe": 1,
+    "Zed Juice": 7,
+    "Bandage": 34,
+    "Thread": 2,
+    "Cloth": -2,
+    "Logs": 1000,
+    "Desert Eagle": 1,
+    "声望": 218.5,
+    "Water": 3
+  },
+  "balance": 244710,
+  "latestLogTimestamp": 1738824745
+},
+{
+  "_id": {
+    "$oid": "679a471c1dae3fa5e238ff70"
+  },
+  "playerId": 11772,
+  "playerNames": [
+    "Kingdee"
+  ],
+  "items": {
+    "Barley Seeds": 50,
+    "Silver key": 1,
+    "Police RFID": 0,
+    "Tarp": 1,
+    "Small Med Kit": 1,
+    "Simple Ammo": 5,
+    "Shotgun": 1,
+    "Scrap": 831,
+    "Pistol Ammo": 50,
+    "Nails": 3620,
+    "Logs": 2902,
+    "Iron Ore": 14,
+    "Iron Bar": 749,
+    "Gun Powder": 60,
+    "Fuel": 14,
+    "Desert Eagle": 1,
+    "Cooked Fish": 10,
+    "Coal": 10,
+    "Cloth": 11,
+    "Carp": 9,
+    "Canned Food": 160,
+    "Beer": 2,
+    "Bass": 9,
+    "Zed Juice": 32,
+    "Water": 9,
+    "Dirty Water": 27,
+    "Bandage": 4,
+    "Wooden Fishing Rod": -3,
+    "Pickaxe": -1,
+    "Steel": 5
+  },
+  "balance": 263977
+},
+{
+  "_id": {
+    "$oid": "679a471c1dae3fa5e238ff71"
+  },
+  "playerId": 11795,
+  "playerNames": [
+    "RandomMan"
+  ],
+  "items": {
+    "Logs": 220,
+    "Dirty Water": 9,
+    "Bow": 2,
+    "Zed Juice": 15,
+    "Barley Seeds": 10,
+    "Coal": 425,
+    "Baseball Bat": 36,
+    "Baton": 4,
+    "Carp": 1,
+    "声望": 1564.3
+  },
+  "balance": 171160,
+  "latestLogTimestamp": 1739441628
+},
+{
+  "_id": {
+    "$oid": "679a471c1dae3fa5e238ff72"
+  },
+  "playerId": 11714,
+  "playerNames": [
+    "Frostleaf08"
+  ],
+  "items": {
+    "Thread": 4,
+    "Water": 132,
+    "Zed Juice": 1106,
+    "Simple Ammo": 10,
+    "Pistol Ammo": 240,
+    "Med Kit": 2,
+    "Small Med Kit": 1,
+    "Desert Eagle": 1,
+    "Dirty Water": 27,
+    "Barley Seeds": 221,
+    "e-Cola": 66,
+    "Chocolate": 222,
+    "Generals RFID": 0,
+    "Advanced Tools": 5,
+    "Pickaxe": 0,
+    "Plastic": -29,
+    "Fuel": 129,
+    "Iron Bar": 336,
+    "Nails": 11037,
+    "Wire": 13,
+    "Steel": 167,
+    "Rope": 8,
+    "Logs": 6566,
+    "Cooked Fish": 133,
+    "Canned Food": 140,
+    "Lighter": 0,
+    "Steel Fishing Rod": 1,
+    "Wooden Fishing Rod": 0,
+    "Tarp": 1,
+    "Scrap": 0,
+    "Coal": 0,
+    "Silver key": 0,
+    "Gun Powder": 50,
+    "Cloth": 3,
+    "Flux": -10,
+    "Morphine": 1,
+    "声望": 2848.6000000000004,
+    "Lockpick": 1,
+    "Sawnoff": 2,
+    "Pro Fishing Rod": 1,
+    "Bandage": -50,
+    "Security Card": 5,
+    "Brick": 3,
+    "Explosives": 9,
+    "Sandfish": 3,
+    "Rockfish": 2
+  },
+  "balance": 2513718,
+  "latestLogTimestamp": 1739956479
+},
+{
+  "_id": {
+    "$oid": "679a471c1dae3fa5e238ff73"
+  },
+  "playerId": 11825,
+  "playerNames": [
+    "KotoneFujita"
+  ],
+  "items": {
+    "Rope": 12,
+    "Steel": -308,
+    "Gun Powder": 1067,
+    "Barley Seeds": 121,
+    "Dirty Water": 114,
+    "Coal": -37,
+    "Nails": -51830,
+    "Scrap": 10183,
+    "Tarp": -1,
+    "Chocolate": -12,
+    "Wire": 36,
+    "Med Kit": 0,
+    "Bandage": 5,
+    "Cloth": 46,
+    "Plastic": 50,
+    "Beer": 43,
+    "Zed Juice": 1243,
+    "Water": 22,
+    "Iron Ore": 90,
+    "Canned Food": -100,
+    "Cooked Fish": -105,
+    "Logs": 9365,
+    "Small Med Kit": 3,
+    "Fuel": 73,
+    "Pickaxe": -4,
+    "Gears": 27,
+    "Perch": -4,
+    "Carp": -26,
+    "Iron Bar": 2524,
+    "Zed Pack": 3,
+    "Silver key": -1,
+    "Police RFID": 1,
+    "Thread": 23,
+    "Simple Ammo": 5,
+    "Shotgun Slug": -120,
+    "声望": 2511,
+    "Advanced Tools": 16,
+    "Generals RFID": 0,
+    "Brick": 11,
+    "Cement": 26,
+    "Explosives": 9,
+    "Flux": 55,
+    "Lockpick": -7,
+    "Pistol Ammo": -40,
+    "Desert Eagle": -1,
+    "Morphine": 1
+  },
+  "balance": 2507776,
+  "latestLogTimestamp": 1739953607
+},
+{
+  "_id": {
+    "$oid": "679a471c1dae3fa5e238ff74"
+  },
+  "playerId": 11710,
+  "playerNames": [
+    "Crazytrain"
+  ],
+  "items": {
+    "Steel": 9,
+    "Wire": 36,
+    "Thread": 5,
+    "Tarp": 5,
+    "Plastic": 1,
+    "Perch": 3,
+    "Gun Powder": 100,
+    "Gears": 3,
+    "Carp": 4,
+    "Cloth": 33,
+    "Iron Ore": 43,
+    "Dirty Water": 90,
+    "Shotgun": 1,
+    "Simple Ammo": 5,
+    "Water": 45,
+    "Small Med Kit": 2,
+    "Morphine": 1,
+    "Fuel": 121,
+    "Bandage": 49,
+    "Barley Seeds": 138,
+    "Silver key": 0,
+    "Police RFID": 0,
+    "Cooked Fish": 1,
+    "Pistol Ammo": 0,
+    "Nails": 33209,
+    "Coal": 2,
+    "Logs": 5464,
+    "Iron Bar": 1075,
+    "Zed Juice": 10,
+    "Scrap": 7480,
+    "e-Cola": 3,
+    "Canned Food": 69,
+    "Beer": 13,
+    "Baseball Bat": 1
+  },
+  "balance": 1695551
+},
+{
+  "_id": {
+    "$oid": "679a471c1dae3fa5e238ff75"
+  },
+  "playerId": 11815,
+  "playerNames": [
+    "Wolf"
+  ],
+  "items": {
+    "Generals RFID": 0,
+    "Advanced Tools": 23,
+    "Fuel": -147,
+    "Tarp": 30,
+    "Nails": -6026,
+    "Chocolate": 29,
+    "Water": 60,
+    "Dirty Water": 177,
+    "Barley Seeds": 293,
+    "Rope": -4,
+    "Cooked Fish": 5,
+    "Silver key": 0,
+    "Canned Food": 135,
+    "Zed Pack": 3,
+    "Logs": 6500,
+    "Zed Juice": 15,
+    "Police RFID": 0,
+    "Gun Powder": 815,
+    "Shotgun Slug": -40,
+    "Lockpick": -4,
+    "Cement": 13,
+    "Plastic": -7,
+    "Gears": 20,
+    "Whiskey": 24,
+    "Iron Ore": 86,
+    "Flux": 47,
+    "声望": 2513.6,
+    "Camo Vest": 1,
+    "Beer": 38,
+    "Wire": 79,
+    "Fire Axe": 1,
+    "Coal": 631,
+    "e-Cola": 25,
+    "SMG": 1,
+    "Brick": -8,
+    "Desert Eagle": -3,
+    "Sawnoff": 4,
+    "Pistol Ammo": 65,
+    "Thread": 21,
+    "Security Card": 1,
+    "Barricade": -4,
+    "ZedBull": 3
+  },
+  "balance": 785437,
+  "latestLogTimestamp": 1739967793
+},
+{
+  "_id": {
+    "$oid": "679a471c1dae3fa5e238ff76"
+  },
+  "playerId": 11748,
+  "playerNames": [
+    "Muyu"
+  ],
+  "items": {
+    "Zed Juice": 304,
+    "Wooden Fishing Rod": 1,
+    "Wire": 63,
+    "Water": 58,
+    "Thread": 20,
+    "Tarp": 3,
+    "SMG": 1,
+    "Steel": 255,
+    "Small Med Kit": 3,
+    "Simple Ammo": 5,
+    "Silver key": 1,
+    "Shotgun": 1,
+    "Scrap": 2321,
+    "Rope": 4,
+    "Police RFID": 1,
+    "Plastic": 29,
+    "Pistol Ammo": 45,
+    "Pickaxe": 5,
+    "Perch": 2,
+    "Nails": -557,
+    "Med Kit": 1,
+    "Lucky coin": 1,
+    "Logs": 1294,
+    "Iron Ore": 50,
+    "Iron Bar": 195,
+    "Gun Powder": 190,
+    "Gears": 1,
+    "Fuel": 96,
+    "Dirty Water": 119,
+    "Desert Eagle": 1,
+    "Cooked Fish": 52,
+    "Coal": 1016,
+    "Cloth": 9,
+    "Chocolate": 35,
+    "Carp": 12,
+    "Canned Food": 1,
+    "Camo Hat": 1,
+    "Beer": 10,
+    "Baton": 3,
+    "Bass": 6,
+    "Barley Seeds": 201,
+    "Bandage": 24,
+    "Army Helmet": 1,
+    "AK-74u": 1
+  },
+  "balance": 1292212
+},
+{
+  "_id": {
+    "$oid": "679a471c1dae3fa5e238ff77"
+  },
+  "playerId": 11643,
+  "playerNames": [
+    "xianxian"
+  ],
+  "items": {
+    "Nails": 4136,
+    "Iron Bar": 861,
+    "Zed Pack": 7,
+    "Zed Juice": 1964,
+    "Wire": 53,
+    "Water": 54,
+    "Thread": 32,
+    "Tarp": 1,
+    "Steel": -36,
+    "Small Med Kit": 2,
+    "Scrap": 1324,
+    "Rope": 12,
+    "Plastic": 33,
+    "Logs": 10813,
+    "Iron Ore": 71,
+    "Gun Powder": 206,
+    "Gears": 5,
+    "Fuel": 867,
+    "Dirty Water": 120,
+    "Cooked Fish": 1,
+    "Coal": 41,
+    "Cloth": 26,
+    "Chocolate": 1036,
+    "Beer": 11,
+    "Barley Seeds": 229,
+    "Bandage": 32,
+    "Police RFID": 0,
+    "Med Kit": 1,
+    "Camo Hat": 1,
+    "Simple Ammo": 5,
+    "Pistol Ammo": 50,
+    "Desert Eagle": 1,
+    "Advanced Tools": -1,
+    "Shotgun": 1,
+    "Generals RFID": 0,
+    "Flux": 50,
+    "Silver key": 1,
+    "Security Card": 6,
+    "e-Cola": -31,
+    "声望": 2231.7
+  },
+  "balance": 5401291,
+  "latestLogTimestamp": 1739882625
+},
+{
+  "_id": {
+    "$oid": "679a471c1dae3fa5e238ff78"
+  },
+  "playerId": 11802,
+  "playerNames": [
+    "GoldenSnitch"
+  ],
+  "items": {
+    "Barley Seeds": 227,
+    "Water": 76,
+    "Dirty Water": 92,
+    "Gears": -2,
+    "Pickaxe": 3,
+    "Zed Juice": 288,
+    "Plastic": 1,
+    "Rope": 1,
+    "Tarp": -1,
+    "Logs": 850,
+    "Gun Powder": 10,
+    "Nails": 600,
+    "Advanced Tools": 0,
+    "Generals RFID": 0,
+    "Simple Ammo": 5,
+    "声望": 2355.8,
+    "Sawnoff": 1,
+    "Vodka": 4
+  },
+  "balance": 300750,
+  "latestLogTimestamp": 1739889564
+},
+{
+  "_id": {
+    "$oid": "679a471c1dae3fa5e238ff79"
+  },
+  "playerId": 11831,
+  "playerNames": [
+    "LuVVVVV"
+  ],
+  "items": {
+    "Silver key": 0,
+    "Police RFID": 0,
+    "Fuel": 76,
+    "Steel": -280,
+    "Rope": -8,
+    "声望": 2627.5,
+    "Baseball Bat": -1,
+    "Cement": -20,
+    "Scrap": -21,
+    "Gun Powder": 398
+  },
+  "balance": 409282,
+  "latestLogTimestamp": 1739956479
+},
+{
+  "_id": {
+    "$oid": "679a471c1dae3fa5e238ff7a"
+  },
+  "playerId": 11868,
+  "playerNames": [
+    "Bearui"
+  ],
+  "items": {
+    "Wire": 0,
+    "Nails": 6943,
+    "Steel": -142,
+    "Zed Pack": -1,
+    "Rope": -1,
+    "Iron Bar": -200,
+    "Fuel": -1,
+    "Canned Food": -47,
+    "Police RFID": 0,
+    "声望": 733.8
+  },
+  "balance": 17599,
+  "latestLogTimestamp": 1739551324
+},
+{
+  "_id": {
+    "$oid": "679a471c1dae3fa5e238ff7b"
+  },
+  "playerId": 11727,
+  "playerNames": [
+    "zaiyiding"
+  ],
+  "items": {
+    "Scrap": 3200,
+    "Barley Seeds": 123,
+    "Water": 15,
+    "Wooden Fishing Rod": 1,
+    "Rope": -1,
+    "Nails": 1167,
+    "Dirty Water": 30,
+    "Pickaxe": 1,
+    "Logs": 1500,
+    "Tarp": 8,
+    "Flux": -2,
+    "Steel": -135,
+    "Advanced Tools": -3,
+    "Plastic": 45,
+    "Generals RFID": 0,
+    "e-Cola": 40,
+    "Security Card": 2,
+    "声望": 1856.9999999999998,
+    "Explosives": -2,
+    "Lockpick": -1,
+    "Barricade": -1,
+    "Cement": 30
+  },
+  "balance": 376249,
+  "latestLogTimestamp": 1739941842
+},
+{
+  "_id": {
+    "$oid": "679a471d1dae3fa5e238ff7c"
+  },
+  "playerId": 11701,
+  "playerNames": [
+    "Ratatatata"
+  ],
+  "items": {
+    "Baton": 0,
+    "Switchblade": 1,
+    "Baseball Bat": 3,
+    "Logs": 24,
+    "Silver key": 0,
+    "Barley Seeds": 82,
+    "Generals RFID": 0,
+    "Advanced Tools": 0,
+    "Brick": -2,
+    "Oil": 1,
+    "Small Med Kit": 2,
+    "Morphine": 1,
+    "Med Kit": 2,
+    "Gears": 2,
+    "Security Card": -1,
+    "声望": 2005.1,
+    "Explosives": -1,
+    "Lockpick": -2,
+    "Iron Bar": -300,
+    "Cement": 18,
+    "e-Cola": 20,
+    "Chocolate": -28,
+    "ZedBull": -2
+  },
+  "balance": 114508,
+  "latestLogTimestamp": 1739889311
+},
+{
+  "_id": {
+    "$oid": "679a471d1dae3fa5e238ff7d"
+  },
+  "playerId": 11709,
+  "playerNames": [
+    "HGZ888"
+  ],
+  "items": {
+    "Wire": 41,
+    "Cooked Fish": -17,
+    "Nails": 970,
+    "Steel": 292,
+    "Canned Food": 161,
+    "Bass": 4,
+    "Cloth": 65,
+    "Beer": 9,
+    "Iron Ore": 63,
+    "Logs": 45,
+    "e-Cola": 3,
+    "Water": 75,
+    "Zed Juice": 109,
+    "Perch": 20,
+    "Fuel": 51,
+    "Rope": 3,
+    "Wooden Fishing Rod": 1,
+    "Coal": 540,
+    "Barley": 0,
+    "Zed Pack": -2,
+    "Tarp": 5,
+    "Barley Seeds": 158,
+    "Thread": 7,
+    "Switchblade": 1,
+    "Spear": 2,
+    "SMG": 1,
+    "Simple Ammo": 5,
+    "Shotgun": 1,
+    "Scrap": 77,
+    "Police RFID": 1,
+    "Plastic": 28,
+    "Pistol Ammo": 50,
+    "Lucky coin": 1,
+    "Gun Powder": 40,
+    "Gears": 2,
+    "Flux": 50,
+    "Fire Axe": 1,
+    "Dirty Water": 13,
+    "Desert Eagle": 1,
+    "Chocolate": 7,
+    "Carp": 6,
+    "Bandage": 1
+  },
+  "balance": 798068
+},
+{
+  "_id": {
+    "$oid": "679a471d1dae3fa5e238ff7e"
+  },
+  "playerId": 11739,
+  "playerNames": [
+    "ZeAmin"
+  ],
+  "items": {
+    "Barley Seeds": 91,
+    "Iron Bar": -21,
+    "Wire": -6,
+    "Zed Pack": -1,
+    "Nails": 3082,
+    "Dirty Water": 19,
+    "Water": 11,
+    "Tarp": 1,
+    "Fuel": 4,
+    "Logs": 1005,
+    "Silver key": 0,
+    "Zed Juice": 0,
+    "Steel": -15,
+    "Coal": 15,
+    "Plastic": -1,
+    "Rope": -2,
+    "Police RFID": 0
+  },
+  "balance": -27611
+},
+{
+  "_id": {
+    "$oid": "679a471d1dae3fa5e238ff7f"
+  },
+  "playerId": 11850,
+  "playerNames": [
+    "xiaom"
+  ],
+  "items": {
+    "Nails": 3658,
+    "Iron Bar": 20,
+    "Logs": 5758,
+    "Wire": 44,
+    "Coal": -200,
+    "Beer": -50,
+    "Tarp": 6,
+    "Gears": 2,
+    "Cloth": 45,
+    "Dirty Water": 56,
+    "Barley Seeds": 78,
+    "Police RFID": 1,
+    "Pickaxe": -1,
+    "Bandage": 36,
+    "Gun Powder": 170,
+    "Iron Ore": 13,
+    "Rope": -1,
+    "Cooked Fish": -4,
+    "Steel": 3,
+    "Perch": 170,
+    "Carp": 4,
+    "Silver key": 0,
+    "Pistol Ammo": 50,
+    "Simple Ammo": 5,
+    "Water": 35,
+    "Thread": 1,
+    "Baseball Bat": -2,
+    "Zed Juice": -10,
+    "Scrap": 82,
+    "Small Med Kit": 4,
+    "Shotgun": 1,
+    "Desert Eagle": 1,
+    "Plastic": 25,
+    "Kwizine": 2,
+    "Fuel": 41,
+    "Fish Kebab": 5
+  },
+  "balance": 423471,
+  "latestLogTimestamp": 1739079577
+},
+{
+  "_id": {
+    "$oid": "679a471e1dae3fa5e238ff80"
+  },
+  "playerId": 11754,
+  "playerNames": [
+    "NightNone"
+  ],
+  "items": {
+    "Nails": -2608,
+    "Steel": 224,
+    "Iron Bar": -50,
+    "Logs": 4081,
+    "Coal": -25,
+    "Wire": -17,
+    "Thread": 2,
+    "Cloth": -10,
+    "Zed Juice": 19,
+    "Water": 40,
+    "Barley Seeds": 20,
+    "Dirty Water": -23
+  },
+  "balance": -625
+},
+{
+  "_id": {
+    "$oid": "679a471f1dae3fa5e238ff81"
+  },
+  "playerId": 11703,
+  "playerNames": [
+    "bump"
+  ],
+  "items": {
+    "Police RFID": 0,
+    "Tarp": -12,
+    "Flux": -12,
+    "Scrap": 13000,
+    "Nails": 450,
+    "Barley Seeds": 103,
+    "Steel": 0,
+    "Cooked Fish": -40,
+    "Plastic": 0,
+    "Iron Bar": -62,
+    "Chocolate": 13,
+    "Silver key": 0,
+    "Dirty Water": -160,
+    "Water": 160,
+    "Advanced Tools": -1,
+    "Generals RFID": 0,
+    "声望": 1190.7,
+    "Fuel": -30
+  },
+  "balance": 70535,
+  "latestLogTimestamp": 1739521671
+},
+{
+  "_id": {
+    "$oid": "679a47201dae3fa5e238ff82"
+  },
+  "playerId": 11297,
+  "playerNames": [
+    "Snowy"
+  ],
+  "items": {
+    "Water": 94,
+    "Beer": -273,
+    "Dirty Water": 31,
+    "Barley Seeds": 145,
+    "Logs": 1624,
+    "Iron Bar": -36,
+    "Nails": 221,
+    "Silver key": 0,
+    "Baseball Bat": 18,
+    "Zed Juice": 85,
+    "Wire": 3,
+    "Advanced Tools": 0,
+    "Plastic": -1,
+    "Steel": 2,
+    "声望": 1371.5,
+    "Generals RFID": 0,
+    "Respect": 587.1,
+    "Scrap": 70
+  },
+  "balance": 29155,
+  "latestLogTimestamp": 1739911820
+},
+{
+  "_id": {
+    "$oid": "679a47201dae3fa5e238ff83"
+  },
+  "playerId": 11843,
+  "playerNames": [
+    "Kingsman"
+  ],
+  "items": {
+    "Nails": 1300,
+    "Logs": 1450,
+    "Barley Seeds": 85,
+    "Tarp": 3,
+    "Wire": 2,
+    "Water": 105,
+    "声望": 934.2,
+    "Respect": 203.5,
+    "Steel": 20,
+    "Beer": -30
+  },
+  "balance": 150570,
+  "latestLogTimestamp": 1739925266
+},
+{
+  "_id": {
+    "$oid": "679a47201dae3fa5e238ff84"
+  },
+  "playerId": 11298,
+  "playerNames": [
+    "bethanymae1998"
+  ],
+  "items": {
+    "Water": 321,
+    "Dirty Water": -249,
+    "Logs": 4909,
+    "Iron Bar": 36,
+    "Nails": 860,
+    "Beer": -41,
+    "Barley Seeds": 135,
+    "Silver key": 0,
+    "Zed Juice": -85,
+    "Scrap": 11594,
+    "声望": 928.9000000000001,
+    "Respect": 337.8
+  },
+  "balance": 297017,
+  "latestLogTimestamp": 1739960322
+},
+{
+  "_id": {
+    "$oid": "679a47201dae3fa5e238ff85"
+  },
+  "playerId": 11851,
+  "playerNames": [
+    "Annie"
+  ],
+  "items": {
+    "Logs": 3049,
+    "Nails": 9070,
+    "Zed Juice": -185,
+    "Barley Seeds": 59,
+    "Water": 127,
+    "Iron Bar": 60,
+    "Plastic": 22,
+    "Advanced Tools": 1,
+    "Steel": 59,
+    "Dirty Water": -76,
+    "Baseball Bat": -3,
+    "Beer": -20,
+    "Wire": 5,
+    "Scrap": 6247,
+    "声望": 884.9000000000001,
+    "Unrefined Plastic": 4,
+    "Flux": 15,
+    "Respect": 842.6
+  },
+  "balance": 584511,
+  "latestLogTimestamp": 1739959997
+},
+{
+  "_id": {
+    "$oid": "679a47201dae3fa5e238ff86"
+  },
+  "playerId": 10258,
+  "playerNames": [
+    "LilBoyBlue"
+  ],
+  "items": {
+    "Logs": 3016,
+    "Dirty Water": 41,
+    "Barley Seeds": 66,
+    "Water": 9,
+    "Nails": 1157,
+    "Iron Bar": 10,
+    "声望": 612.1,
+    "Respect": 22
+  },
+  "balance": 108091,
+  "latestLogTimestamp": 1739752506
+},
+{
+  "_id": {
+    "$oid": "679a47201dae3fa5e238ff87"
+  },
+  "playerId": 280,
+  "playerNames": [
+    "Daniel"
+  ],
+  "items": {
+    "Wire": -1,
+    "Water": 5,
+    "Dirty Water": 67,
+    "Barley Seeds": 71,
+    "Switchblade": 1,
+    "Baseball Bat": 1,
+    "Tarp": -6,
+    "Logs": -91,
+    "Scrap": 934,
+    "声望": 878,
+    "Handmade": 1,
+    "Desert Eagle": 1,
+    "Respect": 337.8,
+    "Wrench": 0
+  },
+  "balance": 75813,
+  "latestLogTimestamp": 1739911820
+},
+{
+  "_id": {
+    "$oid": "679a47201dae3fa5e238ff88"
+  },
+  "playerId": 10231,
+  "playerNames": [
+    "Mizza"
+  ],
+  "items": {
+    "Barley Seeds": 179,
+    "Dirty Water": 73,
+    "Water": 19,
+    "Perch": 1,
+    "Iron Ore": 3,
+    "Baseball Bat": 1,
+    "Logs": 616,
+    "Scrap": 74,
+    "Generals RFID": 0,
+    "声望": 1309.9,
+    "Respect": 343.5
+  },
+  "balance": 158650,
+  "latestLogTimestamp": 1739952735
+},
+{
+  "_id": {
+    "$oid": "679a47201dae3fa5e238ff89"
+  },
+  "playerId": 11069,
+  "playerNames": [
+    "Infusion"
+  ],
+  "items": {
+    "Barley Seeds": 117,
+    "Dirty Water": -160,
+    "Nails": 3469,
+    "Zed Juice": 30,
+    "Logs": 4723,
+    "Beer": -429,
+    "Water": 378,
+    "Iron Bar": 101,
+    "Cloth": -15,
+    "Fuel": -11,
+    "Thread": -4,
+    "Wire": 31,
+    "Perch": -1,
+    "Iron Ore": -3,
+    "Zed Pack": 1,
+    "Plastic": -21,
+    "Steel": 484,
+    "Advanced Tools": -1,
+    "Scrap": 10795,
+    "Tarp": 42,
+    "Baseball Bat": 20,
+    "Flux": 37,
+    "Gears": 4,
+    "Unrefined Plastic": 12,
+    "Rope": 10,
+    "Generals RFID": 0,
+    "声望": 1170.7,
+    "Respect": 793.6
+  },
+  "balance": 793702,
+  "latestLogTimestamp": 1739964211
+},
+{
+  "_id": {
+    "$oid": "679a47201dae3fa5e238ff8a"
+  },
+  "playerId": 296,
+  "playerNames": [
+    "Pilko"
+  ],
+  "items": {
+    "Wire": 3,
+    "Thread": 3,
+    "Tarp": 4,
+    "Water": 61,
+    "Barley Seeds": 92,
+    "Iron Bar": 9,
+    "Logs": 14384,
+    "Nails": 12723,
+    "Zed Juice": 155,
+    "Beer": -65,
+    "Cloth": 9,
+    "Dirty Water": 31,
+    "Scrap": 55,
+    "Baseball Bat": 11,
+    "Steel": 10,
+    "Fuel": 7,
+    "声望": 12.5
+  },
+  "balance": 340846,
+  "latestLogTimestamp": 1739563115
+},
+{
+  "_id": {
+    "$oid": "679a47201dae3fa5e238ff8b"
+  },
+  "playerId": 11318,
+  "playerNames": [
+    "Ashtray"
+  ],
+  "items": {
+    "Water": 61,
+    "Dirty Water": 139,
+    "Barley Seeds": 147,
+    "Logs": 6198,
+    "Scrap": 3000,
+    "声望": 953.9000000000001,
+    "Respect": 419.5
+  },
+  "balance": 201871,
+  "latestLogTimestamp": 1739952669
+},
+{
+  "_id": {
+    "$oid": "679a47201dae3fa5e238ff8c"
+  },
+  "playerId": 11716,
+  "playerNames": [
+    "TropicChill"
+  ],
+  "items": {
+    "Zed Pack": -1,
+    "声望": 606.1,
+    "Respect": 412.8
+  },
+  "balance": -9390,
+  "latestLogTimestamp": 1739941137
+},
+{
+  "_id": {
+    "$oid": "679a47201dae3fa5e238ff8d"
+  },
+  "playerId": 11678,
+  "playerNames": [
+    "mightyMONTY"
+  ],
+  "items": {
+    "Barley Seeds": 153,
+    "Dirty Water": 41,
+    "Water": 36,
+    "声望": 1320.2,
+    "Scrap": 2934,
+    "Respect": 437.1,
+    "Beer": -20
+  },
+  "balance": 180743,
+  "latestLogTimestamp": 1739911820
+},
+{
+  "_id": {
+    "$oid": "679a47201dae3fa5e238ff8e"
+  },
+  "playerId": 11485,
+  "playerNames": [
+    "Restrikt"
+  ],
+  "items": {
+    "Barley Seeds": 81,
+    "Water": 2,
+    "Nails": 100,
+    "Baseball Bat": 4,
+    "Dirty Water": 30,
+    "声望": 489.1
+  },
+  "balance": 59760,
+  "latestLogTimestamp": 1739114197
+},
+{
+  "_id": {
+    "$oid": "679a47201dae3fa5e238ff8f"
+  },
+  "playerId": 11564,
+  "playerNames": [
+    "Mikeyy"
+  ],
+  "items": {
+    "Barley Seeds": 12
+  },
+  "balance": 1200
+},
+{
+  "_id": {
+    "$oid": "679a47201dae3fa5e238ff90"
+  },
+  "playerId": 11684,
+  "playerNames": [
+    "Fini"
+  ],
+  "items": {
+    "Barley Seeds": 7
+  },
+  "balance": 700
+},
+{
+  "_id": {
+    "$oid": "679a47201dae3fa5e238ff91"
+  },
+  "playerId": 498,
+  "playerNames": [
+    "Robber00"
+  ],
+  "items": {
+    "Plastic": 0,
+    "Wire": 7,
+    "Logs": 600,
+    "Baseball Bat": -1,
+    "Fuel": 4,
+    "Cloth": 6,
+    "Water": 1,
+    "Thread": 1,
+    "Gears": 1,
+    "Dirty Water": 26,
+    "Barley Seeds": 9,
+    "声望": 217.3
+  },
+  "balance": 82855,
+  "latestLogTimestamp": 1739281139
+},
+{
+  "_id": {
+    "$oid": "679a47211dae3fa5e238ff92"
+  },
+  "playerId": 3143,
+  "playerNames": [
+    "MrCadwallader"
+  ],
+  "items": {
+    "Barley Seeds": 11,
+    "声望": 350.3,
+    "Respect": 66
+  },
+  "balance": 36130,
+  "latestLogTimestamp": 1739762719
+},
+{
+  "_id": {
+    "$oid": "679a47211dae3fa5e238ff93"
+  },
+  "playerId": 10122,
+  "playerNames": [
+    "PlopBucket"
+  ],
+  "items": {
+    "Nails": 50,
+    "Logs": 250,
+    "Barley Seeds": 10
+  },
+  "balance": 3350
+},
+{
+  "_id": {
+    "$oid": "679a47211dae3fa5e238ff94"
+  },
+  "playerId": 6412,
+  "playerNames": [
+    "Pribe"
+  ],
+  "items": {
+    "Water": 3,
+    "Barley Seeds": 14,
+    "声望": 195.3
+  },
+  "balance": 21130,
+  "latestLogTimestamp": 1739402614
+},
+{
+  "_id": {
+    "$oid": "679a47211dae3fa5e238ff95"
+  },
+  "playerId": 11926,
+  "playerNames": [
+    "Heiyezi"
+  ],
+  "items": {
+    "Water": 65,
+    "Dirty Water": 116,
+    "Barley Seeds": 338,
+    "Small Med Kit": 2,
+    "Zed Juice": 274,
+    "Pickaxe": -1,
+    "Wire": 2,
+    "Tarp": 1,
+    "Bass": 1,
+    "Wooden Fishing Rod": 0,
+    "Simple Ammo": 5,
+    "Police RFID": 0,
+    "Baseball Bat": 1,
+    "Fuel": 4,
+    "Logs": 1000,
+    "Gun Powder": -50,
+    "Coal": 100,
+    "Nails": -5,
+    "Desert Eagle": 1,
+    "Bandage": 35,
+    "声望": 1076.5,
+    "Beer": 3,
+    "Canned Food": 1,
+    "Advanced Tools": -1,
+    "Chainsaw": 1,
+    "Security Card": 2,
+    "Chocolate": 1,
+    "e-Cola": 14,
+    "Steel": -15
+  },
+  "balance": 226765,
+  "latestLogTimestamp": 1739857939
+},
+{
+  "_id": {
+    "$oid": "679a47211dae3fa5e238ff96"
+  },
+  "playerId": 11726,
+  "playerNames": [
+    "ACHA"
+  ],
+  "items": {
+    "Barley Seeds": 133,
+    "Logs": 5570,
+    "Steel": -10,
+    "Beer": -205,
+    "Police RFID": 0,
+    "Silver key": 0,
+    "Pistol Ammo": 0,
+    "Dirty Water": 37,
+    "Water": 11,
+    "Wire": 7,
+    "声望": 938.9000000000001,
+    "Baseball Bat": -34,
+    "Baton": -8
+  },
+  "balance": 113015,
+  "latestLogTimestamp": 1739692535
+},
+{
+  "_id": {
+    "$oid": "679a47211dae3fa5e238ff97"
+  },
+  "playerId": 11899,
+  "playerNames": [
+    "boob"
+  ],
+  "items": {
+    "Barley Seeds": 82,
+    "Wooden Fishing Rod": -2,
+    "Fuel": 14,
+    "Dirty Water": 11,
+    "Police RFID": 0,
+    "Water": 1,
+    "Zed Juice": -8,
+    "声望": 1206.7
+  },
+  "balance": 208105,
+  "latestLogTimestamp": 1739521671
+},
+{
+  "_id": {
+    "$oid": "679a47221dae3fa5e238ff98"
+  },
+  "playerId": 5266,
+  "playerNames": [
+    "Reverend"
+  ],
+  "items": {
+    "Barley Seeds": 19,
+    "Water": 11,
+    "声望": 365.3
+  },
+  "balance": 39530,
+  "latestLogTimestamp": 1739490756
+},
+{
+  "_id": {
+    "$oid": "679a47221dae3fa5e238ff99"
+  },
+  "playerId": 11693,
+  "playerNames": [
+    "Pexo"
+  ],
+  "items": {
+    "Logs": 500,
+    "Water": 6,
+    "Barley Seeds": 29,
+    "声望": 922.4000000000001
+  },
+  "balance": 99240,
+  "latestLogTimestamp": 1739448241
+},
+{
+  "_id": {
+    "$oid": "679a47221dae3fa5e238ff9a"
+  },
+  "playerId": 11949,
+  "playerNames": [
+    "abcd"
+  ],
+  "items": {
+    "Gears": 1,
+    "Wire": 8,
+    "Steel": -7,
+    "Water": 5,
+    "Tarp": 1,
+    "Gun Powder": -10,
+    "Logs": 201,
+    "Nails": 10,
+    "Zed Juice": -5,
+    "Shotgun": 1,
+    "Simple Ammo": 5,
+    "Dirty Water": 4,
+    "Barley Seeds": 10,
+    "Silver key": 0,
+    "Carp": 8,
+    "Perch": 20,
+    "Police RFID": 0
+  },
+  "balance": 42480
+},
+{
+  "_id": {
+    "$oid": "679a47221dae3fa5e238ff9b"
+  },
+  "playerId": 11749,
+  "playerNames": [
+    "Sweety"
+  ],
+  "items": {
+    "Rope": 2,
+    "Tarp": -1,
+    "Dirty Water": 10,
+    "Plastic": 25,
+    "Wire": 30,
+    "Bandage": 25,
+    "声望": 1128.6,
+    "Cooked Fish": -132
+  },
+  "balance": 423790,
+  "latestLogTimestamp": 1739749521
+},
+{
+  "_id": {
+    "$oid": "679a47221dae3fa5e238ff9c"
+  },
+  "playerId": 11864,
+  "playerNames": [
+    "yx66"
+  ],
+  "items": {
+    "Wooden Fishing Rod": -1,
+    "Wire": 59,
+    "Thread": 6,
+    "Tarp": 4,
+    "Steel": -3,
+    "Silver key": 2,
+    "Scrap": -573,
+    "Rope": 2,
+    "Police RFID": 1,
+    "Plastic": 26,
+    "Nails": 8076,
+    "Med Kit": 1,
+    "Lucky coin": 1,
+    "Logs": 1746,
+    "Iron Ore": 5,
+    "Iron Bar": 516,
+    "Gun Powder": 100,
+    "Fuel": 21,
+    "Flux": 50,
+    "Dirty Water": -127,
+    "Coal": 616,
+    "Cloth": 10,
+    "Carp": 7,
+    "Bass": 7,
+    "Baseball Bat": -1,
+    "Barley Seeds": 73,
+    "Bandage": 8,
+    "Zed Juice": 91,
+    "Water": 205,
+    "Cooked Fish": 83,
+    "Lighter": 2,
+    "Desert Eagle": 1,
+    "Shotgun": 1,
+    "Canned Food": 1,
+    "Pistol Ammo": 50,
+    "Pickaxe": 0,
+    "Simple Ammo": 5
+  },
+  "balance": 822602
+},
+{
+  "_id": {
+    "$oid": "679a47221dae3fa5e238ff9d"
+  },
+  "playerId": 11226,
+  "playerNames": [
+    "Hawkinger"
+  ],
+  "items": {
+    "Barley Seeds": 4,
+    "Dirty Water": 3,
+    "声望": 224.3
+  },
+  "balance": 23085,
+  "latestLogTimestamp": 1739347046
+},
+{
+  "_id": {
+    "$oid": "679a47221dae3fa5e238ff9e"
+  },
+  "playerId": 11609,
+  "playerNames": [
+    "StarTracker"
+  ],
+  "items": {
+    "Wire": 16,
+    "Water": 17,
+    "Thread": 5,
+    "Tarp": 4,
+    "Steel": 10,
+    "Spear": 1,
+    "Simple Ammo": 5,
+    "Scrap": 1189,
+    "Police RFID": 1,
+    "Plastic": 25,
+    "Pistol Ammo": 50,
+    "Perch": 2,
+    "Nails": 16316,
+    "Logs": 3755,
+    "Iron Ore": 39,
+    "Iron Bar": 1,
+    "Gun Powder": 70,
+    "Gears": 2,
+    "Fuel": 37,
+    "Dirty Water": 39,
+    "Desert Eagle": 1,
+    "Coal": 250,
+    "Cloth": 6,
+    "Carp": 3,
+    "Canned Food": 61,
+    "Baton": 1,
+    "Bass": 2,
+    "Baseball Bat": 1,
+    "Barley Seeds": 93,
+    "Bandage": 13,
+    "Zed Juice": 45
+  },
+  "balance": 742144
+},
+{
+  "_id": {
+    "$oid": "679a47221dae3fa5e238ff9f"
+  },
+  "playerId": 11859,
+  "playerNames": [
+    "lucyphill"
+  ],
+  "items": {
+    "Nails": -30,
+    "Silver key": 0,
+    "Logs": 500,
+    "Barley Seeds": 46,
+    "Pistol Ammo": 0,
+    "Police RFID": 0
+  },
+  "balance": 7740
+},
+{
+  "_id": {
+    "$oid": "679a47221dae3fa5e238ffa0"
+  },
+  "playerId": 11736,
+  "playerNames": [
+    "Bearer"
+  ],
+  "items": {
+    "Barley Seeds": 20
+  },
+  "balance": 2000
+},
+{
+  "_id": {
+    "$oid": "679a47221dae3fa5e238ffa1"
+  },
+  "playerId": 11521,
+  "playerNames": [
+    "SirSinister"
+  ],
+  "items": {
+    "Barley Seeds": 32,
+    "声望": 181.4
+  },
+  "balance": 21340,
+  "latestLogTimestamp": 1739419911
+},
+{
+  "_id": {
+    "$oid": "679a47221dae3fa5e238ffa2"
+  },
+  "playerId": 11916,
+  "playerNames": [
+    "Blackwater4"
+  ],
+  "items": {
+    "Wooden Fishing Rod": 0,
+    "Police RFID": -1,
+    "Water": 5,
+    "Nails": 1200,
+    "声望": 1912.2999999999997,
+    "Advanced Tools": -11,
+    "Steel": -25
+  },
+  "balance": 37305,
+  "latestLogTimestamp": 1739964776
+},
+{
+  "_id": {
+    "$oid": "679a47221dae3fa5e238ffa3"
+  },
+  "playerId": 11863,
+  "playerNames": [
+    "Bluewind"
+  ],
+  "items": {
+    "Iron Bar": 188,
+    "Zed Pack": 1,
+    "Nails": 1581,
+    "Fuel": 16,
+    "Gears": 1,
+    "Iron Ore": 1,
+    "Logs": 185,
+    "Pickaxe": 1,
+    "Simple Ammo": 5,
+    "Steel": 1,
+    "Wire": 9,
+    "Zed Juice": 214,
+    "Tarp": 2,
+    "Water": 16,
+    "Pistol Ammo": 50,
+    "Scrap": 1768,
+    "e-Cola": 1,
+    "Dirty Water": 37,
+    "Cooked Fish": 1,
+    "Coal": 130,
+    "Cloth": 13,
+    "Carp": 1,
+    "Canned Food": 1,
+    "Beer": 1,
+    "Bass": 5,
+    "Barley Seeds": 69,
+    "Bandage": 10,
+    "Baseball Bat": -1
+  },
+  "balance": 311257
+},
+{
+  "_id": {
+    "$oid": "679a47231dae3fa5e238ffa4"
+  },
+  "playerId": 11738,
+  "playerNames": [
+    "Zooooom"
+  ],
+  "items": {
+    "Cloth": 3,
+    "Lucky coin": 1,
+    "Bandage": 19,
+    "Scrap": 54,
+    "Water": 126,
+    "Zed Pack": 2,
+    "Steel": 34,
+    "Simple Ammo": 5,
+    "Cooked Fish": 209,
+    "Barley Seeds": 48,
+    "Iron Bar": 344,
+    "Silver key": 2,
+    "Nails": 1310,
+    "Rope": -6,
+    "Plastic": 25,
+    "Gun Powder": 153,
+    "Logs": 244,
+    "Dirty Water": -72,
+    "Desert Eagle": 1,
+    "Fuel": 2,
+    "Pistol Ammo": 29,
+    "Thread": 4,
+    "Tarp": 6,
+    "Shotgun": 1,
+    "Police RFID": 1,
+    "Lighter": 7,
+    "Gears": 2,
+    "Flux": 50,
+    "Zed Juice": 147,
+    "Wooden Fishing Rod": 8,
+    "Wire": -5,
+    "声望": 786.8000000000001,
+    "Coal": -400,
+    "SMG": 1,
+    "Canned Food": 1,
+    "Beer": -30
+  },
+  "balance": 623259,
+  "latestLogTimestamp": 1739891222
+},
+{
+  "_id": {
+    "$oid": "679a47231dae3fa5e238ffa5"
+  },
+  "playerId": 10379,
+  "playerNames": [
+    "OriginalValjean"
+  ],
+  "items": {
+    "Barley Seeds": 9,
+    "Nails": 13,
+    "Logs": 31
+  },
+  "balance": 1273
+},
+{
+  "_id": {
+    "$oid": "679fd2c71dae3fa5e23932f4"
+  },
+  "playerId": 11965,
+  "playerNames": [
+    "Krampus"
+  ],
+  "items": {
+    "Beer": -25,
+    "Pistol Ammo": -50,
+    "Water": 237,
+    "Dirty Water": -97,
+    "Iron Bar": -885,
+    "Bass": 4,
+    "Barley Seeds": 56,
+    "Barley": 0,
+    "Scrap": 18,
+    "Zed Pack": -1,
+    "声望": 126.2,
+    "Logs": 2599,
+    "Nails": 5325,
+    "Cooked Fish": -16,
+    "Pickaxe": -1
+  },
+  "balance": -60708,
+  "latestLogTimestamp": 1739947849
+},
+{
+  "_id": {
+    "$oid": "679fd2c71dae3fa5e23932f5"
+  },
+  "playerId": 12090,
+  "playerNames": [
+    "TartacusPrime"
+  ],
+  "items": {
+    "Barley Seeds": 40,
+    "Baseball Bat": 2,
+    "Simple Ammo": 3,
+    "Gears": 1,
+    "Nails": 7,
+    "Scrap": 28,
+    "Bow": 1,
+    "Cloth": 1,
+    "Water": 4,
+    "Dirty Water": 9,
+    "Baton": 2,
+    "Spear": 1,
+    "Switchblade": 2,
+    "Fuel": 2,
+    "Canned Food": 30,
+    "声望": 191.5,
+    "Pickaxe": 1,
+    "Logs": 28,
+    "Coal": 1,
+    "Plastic": 1,
+    "Perch": 2,
+    "Bandage": 3
+  },
+  "balance": 49848,
+  "latestLogTimestamp": 1739914241
+},
+{
+  "_id": {
+    "$oid": "679fd2c71dae3fa5e23932f6"
+  },
+  "playerId": 12116,
+  "playerNames": [
+    "Chedburn"
+  ],
+  "items": {
+    "Barley Seeds": 40,
+    "Water": 33,
+    "Dirty Water": 7,
+    "声望": 213.5,
+    "Nails": 42,
+    "Logs": 913,
+    "Iron Bar": 30
+  },
+  "balance": 40960,
+  "latestLogTimestamp": 1739658534
+},
+{
+  "_id": {
+    "$oid": "679fd34c1dae3fa5e2393315"
+  },
+  "playerId": 11531,
+  "playerNames": [
+    "Nixx"
+  ],
+  "items": {
+    "Barley Seeds": 4
+  },
+  "balance": 400
+},
+{
+  "_id": {
+    "$oid": "67a03c8c1dae3fa5e239356a"
+  },
+  "playerId": 12051,
+  "playerNames": [
+    "Unjustful"
+  ],
+  "items": {
+    "Water": 2,
+    "声望": 10
+  },
+  "balance": 1200,
+  "latestLogTimestamp": 1738905317
+},
+{
+  "_id": {
+    "$oid": "67a064f01dae3fa5e2393772"
+  },
+  "playerId": 12439,
+  "playerNames": [
+    "Slayer"
+  ],
+  "items": {
+    "Dirty Water": 23,
+    "Barley Seeds": 25,
+    "声望": 2652,
+    "Water": 2
+  },
+  "balance": 268095,
+  "latestLogTimestamp": 1739934459
+},
+{
+  "_id": {
+    "$oid": "67a081371dae3fa5e23937ec"
+  },
+  "playerId": 11663,
+  "playerNames": [
+    "Kami"
+  ],
+  "items": {
+    "Pistol Ammo": 50,
+    "Iron Ore": 40,
+    "Steel": 3,
+    "Coal": 106,
+    "Plastic": 25,
+    "Zed Juice": 46,
+    "Wire": 2,
+    "Fuel": 35,
+    "Scrap": 20,
+    "Nails": 6831,
+    "Logs": 9681,
+    "Iron Bar": 915,
+    "Cooked Fish": 0,
+    "Barley Seeds": 8,
+    "Zed Pack": 1,
+    "Perch": -85
+  },
+  "balance": 853540
+},
+{
+  "_id": {
+    "$oid": "67a081381dae3fa5e23937fe"
+  },
+  "playerId": 11668,
+  "playerNames": [
+    "StoreGhost"
+  ],
+  "items": {
+    "Water": 1,
+    "Barley Seeds": 4,
+    "Tarp": -2
+  },
+  "balance": -15500
+},
+{
+  "_id": {
+    "$oid": "67a2368e1dae3fa5e2394706"
+  },
+  "playerId": 12307,
+  "playerNames": [
+    "Tibursho"
+  ],
+  "items": {
+    "Zed Juice": 40,
+    "Barley Seeds": 17,
+    "Fuel": 3,
+    "声望": 2019.3999999999999
+  },
+  "balance": 223040,
+  "latestLogTimestamp": 1739964776
+},
+{
+  "_id": {
+    "$oid": "67a2f8391dae3fa5e2394c0e"
+  },
+  "playerId": 12077,
+  "playerNames": [
+    "TRIGGERHAPPEE"
+  ],
+  "items": {
+    "Barley Seeds": 21,
+    "Dirty Water": 4,
+    "声望": 356.7
+  },
+  "balance": 37080,
+  "latestLogTimestamp": 1739174091
+},
+{
+  "_id": {
+    "$oid": "67a3a2ee1dae3fa5e2394e96"
+  },
+  "playerId": 12203,
+  "playerNames": [
+    "D3XU5"
+  ],
+  "items": {
+    "Dirty Water": 31,
+    "Barley Seeds": 37,
+    "声望": 299.2,
+    "Water": 4,
+    "Logs": 1703
+  },
+  "balance": 52603,
+  "latestLogTimestamp": 1739893059
+},
+{
+  "_id": {
+    "$oid": "67a3a2ee1dae3fa5e2394e97"
+  },
+  "playerId": 12397,
+  "playerNames": [
+    "Asuracalius"
+  ],
+  "items": {
+    "Barley Seeds": 18,
+    "声望": 212.5
+  },
+  "balance": 22350,
+  "latestLogTimestamp": 1738964681
+},
+{
+  "_id": {
+    "$oid": "67a4bba10b38ec74af05982d"
+  },
+  "playerId": 10913,
+  "playerNames": [
+    "PLEISTRIUS"
+  ],
+  "items": {
+    "声望": 1581
+  },
+  "balance": 158100,
+  "latestLogTimestamp": 1739964776
+},
+{
+  "_id": {
+    "$oid": "67a54b720b38ec74af059955"
+  },
+  "playerId": 12065,
+  "playerNames": [
+    "Slammerino"
+  ],
+  "items": {
+    "声望": 455
+  },
+  "balance": 45500,
+  "latestLogTimestamp": 1739011947
+},
+{
+  "_id": {
+    "$oid": "67a6403f0b38ec74af059e1a"
+  },
+  "playerId": 12832,
+  "playerNames": [
+    "Convicted"
+  ],
+  "items": {
+    "Gun Powder": 50,
+    "Dirty Water": 10,
+    "Barley Seeds": 3,
+    "Zed Juice": 41,
+    "Desert Eagle": 1,
+    "Water": 1,
+    "声望": 227.5
+  },
+  "balance": 26775,
+  "latestLogTimestamp": 1739597609
+},
+{
+  "_id": {
+    "$oid": "67a6403f0b38ec74af059e1b"
+  },
+  "playerId": 12746,
+  "playerNames": [
+    "Loial"
+  ],
+  "items": {
+    "Barley Seeds": 2,
+    "声望": 404
+  },
+  "balance": 40500,
+  "latestLogTimestamp": 1739037065
+},
+{
+  "_id": {
+    "$oid": "67a6ab7a0b38ec74af059fa0"
+  },
+  "playerId": 13028,
+  "playerNames": [
+    "LePluB"
+  ],
+  "items": {
+    "声望": 1050.4
+  },
+  "balance": 105040,
+  "latestLogTimestamp": 1739464502
+},
+{
+  "_id": {
+    "$oid": "67a6ea520b38ec74af05a093"
+  },
+  "playerId": 10250,
+  "playerNames": [
+    "Naro"
+  ],
+  "items": {
+    "声望": 362.5
+  },
+  "balance": 36250,
+  "latestLogTimestamp": 1739448241
+},
+{
+  "_id": {
+    "$oid": "67a6ea520b38ec74af05a094"
+  },
+  "playerId": 10156,
+  "playerNames": [
+    "Deathklok"
+  ],
+  "items": {
+    "声望": 708.9999999999999
+  },
+  "balance": 70900,
+  "latestLogTimestamp": 1739536329
+},
+{
+  "_id": {
+    "$oid": "67a6ea520b38ec74af05a095"
+  },
+  "playerId": 12127,
+  "playerNames": [
+    "Aimless"
+  ],
+  "items": {
+    "声望": 964.9000000000001
+  },
+  "balance": 96490,
+  "latestLogTimestamp": 1739521671
+},
+{
+  "_id": {
+    "$oid": "67a72f650b38ec74af05a1c7"
+  },
+  "playerId": 11040,
+  "playerNames": [
+    "Njoi"
+  ],
+  "items": {
+    "Water": 346,
+    "Barley Seeds": 51,
+    "声望": 76.3,
+    "Reputation": 1882.9,
+    "Silver key": 1,
+    "Scrap": 2000,
+    "Iron Bar": 70,
+    "Logs": 3056,
+    "Nails": 1200,
+    "Vodka": 1,
+    "Bandage": 2,
+    "Dirty Water": 1,
+    "Coal": 20
+  },
+  "balance": 114080,
+  "latestLogTimestamp": 1739643524
+},
+{
+  "_id": {
+    "$oid": "67a72f650b38ec74af05a1c8"
+  },
+  "playerId": 12410,
+  "playerNames": [
+    "RandomCuber24"
+  ],
+  "items": {
+    "声望": 124.3,
+    "Reputation": 887.9000000000001,
+    "Water": 1,
+    "Barley Seeds": 1
+  },
+  "balance": 12530,
+  "latestLogTimestamp": 1739609933
+},
+{
+  "_id": {
+    "$oid": "67a72f650b38ec74af05a1c9"
+  },
+  "playerId": 12902,
+  "playerNames": [
+    "Moist"
+  ],
+  "items": {
+    "声望": 68.5,
+    "Logs": 20,
+    "Barley Seeds": 24,
+    "Fuel": 1,
+    "Dirty Water": 10,
+    "Cloth": 4,
+    "Perch": 1,
+    "Carp": 1,
+    "Reputation": 470.40000000000003,
+    "Scrap": 6,
+    "Bandage": 3,
+    "Canned Food": 10,
+    "Cooked Fish": 1,
+    "Water": 2
+  },
+  "balance": 11750,
+  "latestLogTimestamp": 1739509954
+},
+{
+  "_id": {
+    "$oid": "67a72f650b38ec74af05a1ca"
+  },
+  "playerId": 12461,
+  "playerNames": [
+    "Mastodon"
+  ],
+  "items": {
+    "声望": 77,
+    "Reputation": 1406.1000000000001,
+    "Scrap": 4827,
+    "Barley Seeds": 34,
+    "Beer": 3,
+    "Canned Food": 177,
+    "Unrefined Plastic": 1,
+    "Flux": 1,
+    "Water": 10,
+    "Wire": 38,
+    "Dirty Water": 9,
+    "Logs": 339,
+    "Steel": 4,
+    "Gears": 1
+  },
+  "balance": 150688,
+  "latestLogTimestamp": 1739635967
+},
+{
+  "_id": {
+    "$oid": "67a72f650b38ec74af05a1cb"
+  },
+  "playerId": 12509,
+  "playerNames": [
+    "Alfred"
+  ],
+  "items": {
+    "Barley Seeds": 157,
+    "声望": 183,
+    "Water": 36,
+    "Reputation": 2301.0000000000005,
+    "Logs": 3465,
+    "Small Med Kit": 1,
+    "Bandage": 14,
+    "Scrap": 118,
+    "Dirty Water": 78
+  },
+  "balance": 68628,
+  "latestLogTimestamp": 1739635982
+},
+{
+  "_id": {
+    "$oid": "67a72f650b38ec74af05a1cc"
+  },
+  "playerId": 10971,
+  "playerNames": [
+    "LooseMoose"
+  ],
+  "items": {
+    "Canned Food": 1315,
+    "Water": 64,
+    "Nails": 9931,
+    "Logs": 14098,
+    "Dirty Water": 104,
+    "Barley Seeds": 158,
+    "声望": 136.8,
+    "Reputation": 2001.0000000000002,
+    "Iron Bar": 30,
+    "Steel": 21,
+    "Wire": 12,
+    "Beer": -15,
+    "Scrap": 4029,
+    "Coal": 10,
+    "Baseball Bat": 14,
+    "Plastic": 0,
+    "Handmade": 11,
+    "Bandage": 7,
+    "Pistol Ammo": 20,
+    "Tarp": 1,
+    "Gears": 2
+  },
+  "balance": 409969,
+  "latestLogTimestamp": 1739643589
+},
+{
+  "_id": {
+    "$oid": "67a72f650b38ec74af05a1cd"
+  },
+  "playerId": 12801,
+  "playerNames": [
+    "PandaFU"
+  ],
+  "items": {
+    "声望": 104.5,
+    "Reputation": 1215.8
+  },
+  "balance": 10450,
+  "latestLogTimestamp": 1739609933
+},
+{
+  "_id": {
+    "$oid": "67a72f650b38ec74af05a1e6"
+  },
+  "playerId": 12306,
+  "playerNames": [
+    "Starlight"
+  ],
+  "items": {
+    "Canned Food": -16,
+    "声望": 119.3,
+    "Barley Seeds": 128,
+    "Reputation": 1879.7,
+    "Bandage": 27,
+    "Small Med Kit": 1,
+    "Water": 73,
+    "Perch": 4,
+    "Vodka": 1,
+    "Scrap": 3565,
+    "Logs": 9890,
+    "Dirty Water": -5,
+    "Nails": 1795,
+    "Zed Juice": 5,
+    "Wire": 1,
+    "Whiskey": 8,
+    "Thread": 9,
+    "Simple Ammo": 5,
+    "Rope": 2,
+    "Plastic": 2,
+    "Iron Ore": 15,
+    "Gun Powder": 187,
+    "Gears": 1,
+    "Fuel": 36,
+    "Coal": 4,
+    "Cloth": 18,
+    "Beer": 13,
+    "Iron Bar": 0,
+    "Baseball Bat": 1,
+    "Tarp": 1,
+    "Steel": 28,
+    "Carp": 6
+  },
+  "balance": 319166,
+  "latestLogTimestamp": 1739685185
+},
+{
+  "_id": {
+    "$oid": "67a72f650b38ec74af05a1e7"
+  },
+  "playerId": 12815,
+  "playerNames": [
+    "Lyter"
+  ],
+  "items": {
+    "Dirty Water": 27,
+    "声望": 143.8,
+    "Barley Seeds": 85,
+    "Reputation": 1497.3,
+    "Water": 23,
+    "Logs": 640,
+    "Nails": 1100,
+    "Scrap": 68,
+    "Canned Food": 25
+  },
+  "balance": 46441,
+  "latestLogTimestamp": 1739679943
+},
+{
+  "_id": {
+    "$oid": "67a72f650b38ec74af05a1e8"
+  },
+  "playerId": 12603,
+  "playerNames": [
+    "Bernzsta"
+  ],
+  "items": {
+    "Barley Seeds": 94,
+    "声望": 99.8,
+    "Reputation": 1338.5,
+    "Dirty Water": 20,
+    "Water": 4,
+    "Perch": 1,
+    "Vodka": 1,
+    "Scrap": 2000
+  },
+  "balance": 40110,
+  "latestLogTimestamp": 1739632296
+},
+{
+  "_id": {
+    "$oid": "67a72f650b38ec74af05a1e9"
+  },
+  "playerId": 12571,
+  "playerNames": [
+    "rinqi"
+  ],
+  "items": {
+    "声望": 119.3,
+    "Reputation": 353.8
+  },
+  "balance": 11930,
+  "latestLogTimestamp": 1739277016
+},
+{
+  "_id": {
+    "$oid": "67a72f650b38ec74af05a1ea"
+  },
+  "playerId": 10259,
+  "playerNames": [
+    "WarCrypt"
+  ],
+  "items": {
+    "Beer": 106,
+    "Canned Food": 862,
+    "声望": 34.5,
+    "Reputation": 2065.1000000000004,
+    "Barley Seeds": 38,
+    "Logs": 2610,
+    "Nails": 3500,
+    "Iron Bar": 110
+  },
+  "balance": 124020,
+  "latestLogTimestamp": 1739685169
+},
+{
+  "_id": {
+    "$oid": "67a72f650b38ec74af05a1eb"
+  },
+  "playerId": 12341,
+  "playerNames": [
+    "McFluphyBunny"
+  ],
+  "items": {
+    "声望": 171,
+    "Reputation": 1699.3,
+    "Water": 8,
+    "Barley Seeds": 39,
+    "Logs": 158,
+    "Nails": 2910,
+    "Tarp": 1,
+    "Canned Food": 4,
+    "Dirty Water": 1
+  },
+  "balance": 66740,
+  "latestLogTimestamp": 1739609933
+},
+{
+  "_id": {
+    "$oid": "67a72f650b38ec74af05a1ec"
+  },
+  "playerId": 12320,
+  "playerNames": [
+    "Spellman"
+  ],
+  "items": {
+    "声望": 171,
+    "Reputation": 1881.8000000000002,
+    "Silver key": 2,
+    "Dirty Water": 2,
+    "Water": 3,
+    "Barley Seeds": 64,
+    "Logs": 600
+  },
+  "balance": 36530,
+  "latestLogTimestamp": 1739632296
+},
+{
+  "_id": {
+    "$oid": "67a77d0c0b38ec74af05a4d9"
+  },
+  "playerId": 10970,
+  "playerNames": [
+    "GladiusYeeticus"
+  ],
+  "items": {
+    "Barley Seeds": 91,
+    "Reputation": 1163.5000000000002,
+    "Bandage": 9,
+    "Water": 59,
+    "Carp": 1,
+    "Dirty Water": 16,
+    "Logs": 768,
+    "Scrap": 5,
+    "Beer": 1
+  },
+  "balance": 17193,
+  "latestLogTimestamp": 1739643589
+},
+{
+  "_id": {
+    "$oid": "67a77d0c0b38ec74af05a4da"
+  },
+  "playerId": 12976,
+  "playerNames": [
+    "Swaminsane"
+  ],
+  "items": {
+    "声望": 20,
+    "Reputation": 1218.9,
+    "Canned Food": 95,
+    "Barley Seeds": 20,
+    "Scrap": 430,
+    "Beer": 5
+  },
+  "balance": 9385,
+  "latestLogTimestamp": 1739662079
+},
+{
+  "_id": {
+    "$oid": "67a7a7130b38ec74af05a5d0"
+  },
+  "playerId": 11942,
+  "playerNames": [
+    "tylerlou101"
+  ],
+  "items": {
+    "Reputation": 500.9,
+    "Barley Seeds": 40,
+    "Dirty Water": 31,
+    "Logs": 2216,
+    "Canned Food": 4,
+    "Water": 74,
+    "声望": 312.5,
+    "Beer": -25
+  },
+  "balance": 56836,
+  "latestLogTimestamp": 1739391503
+},
+{
+  "_id": {
+    "$oid": "67a7a7130b38ec74af05a5d1"
+  },
+  "playerId": 10974,
+  "playerNames": [
+    "Fiddler"
+  ],
+  "items": {
+    "Reputation": 1394.2,
+    "Nails": 6709,
+    "Logs": 5487,
+    "Dirty Water": 40,
+    "Water": 22,
+    "Bandage": 1,
+    "Canned Food": 7,
+    "Barley Seeds": 90
+  },
+  "balance": 162840,
+  "latestLogTimestamp": 1739643589
+},
+{
+  "_id": {
+    "$oid": "67a7a7130b38ec74af05a5d2"
+  },
+  "playerId": 12101,
+  "playerNames": [
+    "Urraca"
+  ],
+  "items": {
+    "Reputation": 1770.9,
+    "Dirty Water": 28,
+    "Barley Seeds": 66,
+    "Water": 15,
+    "Pistol Ammo": 20,
+    "Nails": 41,
+    "Logs": 25,
+    "Perch": 2,
+    "Gun Powder": 6,
+    "Cloth": 8,
+    "Coal": 1,
+    "Tarp": 1,
+    "Iron Ore": 6,
+    "Thread": 2,
+    "Bandage": 3
+  },
+  "balance": 15288,
+  "latestLogTimestamp": 1739609933
+},
+{
+  "_id": {
+    "$oid": "67a7a7130b38ec74af05a5d3"
+  },
+  "playerId": 12232,
+  "playerNames": [
+    "Graciejj2000"
+  ],
+  "items": {
+    "Reputation": 1259.9,
+    "Logs": 300,
+    "Nails": 50,
+    "Whiskey": 5
+  },
+  "balance": 7750,
+  "latestLogTimestamp": 1739553707
+},
+{
+  "_id": {
+    "$oid": "67a7b0510b38ec74af05a805"
+  },
+  "playerId": 12080,
+  "playerNames": [
+    "JimmyNuggets"
+  ],
+  "items": {
+    "Reputation": 130.5,
+    "Barley Seeds": 12,
+    "Coal": 10
+  },
+  "balance": 850,
+  "latestLogTimestamp": 1738932126
+},
+{
+  "_id": {
+    "$oid": "67a7b0540b38ec74af05a88d"
+  },
+  "playerId": 12682,
+  "playerNames": [
+    "Capt"
+  ],
+  "items": {
+    "Reputation": 212.8,
+    "Barley Seeds": 12,
+    "Baseball Bat": 4
+  },
+  "balance": 600,
+  "latestLogTimestamp": 1738816675
+},
+{
+  "_id": {
+    "$oid": "67a7b0bc0b38ec74af05ab69"
+  },
+  "playerId": 12122,
+  "playerNames": [
+    "Shallock"
+  ],
+  "items": {
+    "Water": 1,
+    "Barley Seeds": 2,
+    "Reputation": 88.3
+  },
+  "balance": 150,
+  "latestLogTimestamp": 1739632296
+},
+{
+  "_id": {
+    "$oid": "67a8686e0b38ec74af05b6b6"
+  },
+  "playerId": 12933,
+  "playerNames": [
+    "Accumulated"
+  ],
+  "items": {
+    "Barley Seeds": 1,
+    "声望": 213.5
+  },
+  "balance": 21400,
+  "latestLogTimestamp": 1739090062
+},
+{
+  "_id": {
+    "$oid": "67a8b74b0b38ec74af05cadd"
+  },
+  "playerId": 12366,
+  "playerNames": [
+    "DEJOUNTE"
+  ],
+  "items": {
+    "Dirty Water": 8,
+    "Water": 1,
+    "声望": 762.9000000000001,
+    "Respect": 120
+  },
+  "balance": 76660,
+  "latestLogTimestamp": 1739913791
+},
+{
+  "_id": {
+    "$oid": "67a91e910b38ec74af05db38"
+  },
+  "playerId": 13151,
+  "playerNames": [
+    "Drudge"
+  ],
+  "items": {
+    "Reputation": 855.3000000000001
+  },
+  "balance": 0,
+  "latestLogTimestamp": 1739559447
+},
+{
+  "_id": {
+    "$oid": "67a9b0860b38ec74af05e678"
+  },
+  "playerId": 12938,
+  "playerNames": [
+    "FotherMucker"
+  ],
+  "items": {
+    "声望": 43,
+    "Barley Seeds": 5,
+    "Baseball Bat": 1
+  },
+  "balance": 4550,
+  "latestLogTimestamp": 1739390336
+},
+{
+  "_id": {
+    "$oid": "67a9b0860b38ec74af05e679"
+  },
+  "playerId": 11515,
+  "playerNames": [
+    "Briefcase"
+  ],
+  "items": {
+    "声望": 213.5
+  },
+  "balance": 21350,
+  "latestLogTimestamp": 1739090062
+},
+{
+  "_id": {
+    "$oid": "67a9b0940b38ec74af05e692"
+  },
+  "playerId": 12632,
+  "playerNames": [
+    "GamingFly269"
+  ],
+  "items": {
+    "声望": 404
+  },
+  "balance": 40400,
+  "latestLogTimestamp": 1739037065
+},
+{
+  "_id": {
+    "$oid": "67aa13ab0b38ec74af05eb44"
+  },
+  "playerId": 12946,
+  "playerNames": [
+    "Tiamat"
+  ],
+  "items": {
+    "Barley Seeds": 71,
+    "Water": 17,
+    "Logs": 800,
+    "Dirty Water": 17
+  },
+  "balance": 13880,
+  "latestLogTimestamp": 1739710253
+},
+{
+  "_id": {
+    "$oid": "67abb8440b38ec74af060506"
+  },
+  "playerId": 12393,
+  "playerNames": [
+    "Pauling"
+  ],
+  "items": {
+    "Water": 9,
+    "声望": 381.1,
+    "Respect": 562.8
+  },
+  "balance": 38560,
+  "latestLogTimestamp": 1739941137
+},
+{
+  "_id": {
+    "$oid": "67ac6c8e0b38ec74af06075d"
+  },
+  "playerId": 12855,
+  "playerNames": [
+    "cankles"
+  ],
+  "items": {
+    "Barley Seeds": 16,
+    "Water": 5
+  },
+  "balance": 1050,
+  "latestLogTimestamp": 1739446447
+},
+{
+  "_id": {
+    "$oid": "67acfad50b38ec74af061055"
+  },
+  "playerId": 12222,
+  "playerNames": [
+    "V8holdensrock"
+  ],
+  "items": {
+    "声望": 67,
+    "Dirty Water": 10,
+    "Barley Seeds": 15
+  },
+  "balance": 7850,
+  "latestLogTimestamp": 1739377327
+},
+{
+  "_id": {
+    "$oid": "67acfad50b38ec74af061056"
+  },
+  "playerId": 13153,
+  "playerNames": [
+    "D250125"
+  ],
+  "items": {
+    "声望": 302
+  },
+  "balance": 30200,
+  "latestLogTimestamp": 1739377327
+},
+{
+  "_id": {
+    "$oid": "67acfad50b38ec74af061057"
+  },
+  "playerId": 13178,
+  "playerNames": [
+    "Firewolf"
+  ],
+  "items": {
+    "声望": 245.5
+  },
+  "balance": 24550,
+  "latestLogTimestamp": 1739372169
+},
+{
+  "_id": {
+    "$oid": "67acfad50b38ec74af061058"
+  },
+  "playerId": 12339,
+  "playerNames": [
+    "Kozmo"
+  ],
+  "items": {
+    "Barley Seeds": 11,
+    "Logs": 200
+  },
+  "balance": 2750,
+  "latestLogTimestamp": 1739339419
+},
+{
+  "_id": {
+    "$oid": "67acfad50b38ec74af061059"
+  },
+  "playerId": 13162,
+  "playerNames": [
+    "Onii"
+  ],
+  "items": {
+    "声望": 235
+  },
+  "balance": 23500,
+  "latestLogTimestamp": 1739276904
+},
+{
+  "_id": {
+    "$oid": "67ad021c0b38ec74af0610b3"
+  },
+  "playerId": 12975,
+  "playerNames": [
+    "ddsra"
+  ],
+  "items": {
+    "声望": 18
+  },
+  "balance": 1800,
+  "latestLogTimestamp": 1739390336
+},
+{
+  "_id": {
+    "$oid": "67ad0b150b38ec74af061120"
+  },
+  "playerId": 13026,
+  "playerNames": [
+    "Gary"
+  ],
+  "items": {
+    "Carp": 1,
+    "Canned Food": 1,
+    "声望": 642.2,
+    "Barley Seeds": 13
+  },
+  "balance": 64925,
+  "latestLogTimestamp": 1739921270
+},
+{
+  "_id": {
+    "$oid": "67ad152f0b38ec74af06115c"
+  },
+  "playerId": 10193,
+  "playerNames": [
+    "Blarghzilla"
+  ],
+  "items": {
+    "声望": 470.1
+  },
+  "balance": 47010,
+  "latestLogTimestamp": 1739305128
+},
+{
+  "_id": {
+    "$oid": "67ad152f0b38ec74af06117b"
+  },
+  "playerId": 10992,
+  "playerNames": [
+    "Oakster"
+  ],
+  "items": {
+    "声望": 244.5
+  },
+  "balance": 24450,
+  "latestLogTimestamp": 1739262646
+},
+{
+  "_id": {
+    "$oid": "67ad153a0b38ec74af061211"
+  },
+  "playerId": 12135,
+  "playerNames": [
+    "FilthyMedi"
+  ],
+  "items": {
+    "声望": 270.8,
+    "Respect": 14.5
+  },
+  "balance": 27080,
+  "latestLogTimestamp": 1739671505
+},
+{
+  "_id": {
+    "$oid": "67ad153a0b38ec74af061229"
+  },
+  "playerId": 10312,
+  "playerNames": [
+    "zlno"
+  ],
+  "items": {
+    "声望": 255.8
+  },
+  "balance": 25580,
+  "latestLogTimestamp": 1738815168
+},
+{
+  "_id": {
+    "$oid": "67ad96060b38ec74af0617be"
+  },
+  "playerId": 13289,
+  "playerNames": [
+    "Novaxx"
+  ],
+  "items": {
+    "声望": 933.8
+  },
+  "balance": 93380,
+  "latestLogTimestamp": 1739889311
+},
+{
+  "_id": {
+    "$oid": "67ada82b0b38ec74af061866"
+  },
+  "playerId": 11250,
+  "playerNames": [
+    "nyxl"
+  ],
+  "items": {
+    "Dirty Water": 8,
+    "Barley Seeds": 21
+  },
+  "balance": 1370,
+  "latestLogTimestamp": 1739905072
+},
+{
+  "_id": {
+    "$oid": "67adfdf80b38ec74af061920"
+  },
+  "playerId": 12000,
+  "playerNames": [
+    "Legendel"
+  ],
+  "items": {
+    "Scrap": 350,
+    "Dirty Water": 6,
+    "Barley Seeds": 4,
+    "Reputation": 70.5,
+    "Water": 1
+  },
+  "balance": 4690,
+  "latestLogTimestamp": 1739453247
+},
+{
+  "_id": {
+    "$oid": "67adfdf80b38ec74af061921"
+  },
+  "playerId": 11997,
+  "playerNames": [
+    "Trying2Survive"
+  ],
+  "items": {
+    "Reputation": 24,
+    "Rope": -2
+  },
+  "balance": -7000,
+  "latestLogTimestamp": 1739452397
+},
+{
+  "_id": {
+    "$oid": "67adfdf80b38ec74af061922"
+  },
+  "playerId": 12083,
+  "playerNames": [
+    "WhiteWolf"
+  ],
+  "items": {
+    "Reputation": 62
+  },
+  "balance": 0,
+  "latestLogTimestamp": 1739448840
+},
+{
+  "_id": {
+    "$oid": "67adfdf80b38ec74af061923"
+  },
+  "playerId": 12445,
+  "playerNames": [
+    "Terrapin"
+  ],
+  "items": {
+    "Reputation": 95.5
+  },
+  "balance": 0,
+  "latestLogTimestamp": 1739448840
+},
+{
+  "_id": {
+    "$oid": "67adfdf80b38ec74af061924"
+  },
+  "playerId": 12375,
+  "playerNames": [
+    "OrangeSoda"
+  ],
+  "items": {
+    "Reputation": 75
+  },
+  "balance": 0,
+  "latestLogTimestamp": 1739448419
+},
+{
+  "_id": {
+    "$oid": "67adfdf80b38ec74af061925"
+  },
+  "playerId": 12238,
+  "playerNames": [
+    "Tontonton"
+  ],
+  "items": {
+    "Reputation": 119
+  },
+  "balance": 0,
+  "latestLogTimestamp": 1739448419
+},
+{
+  "_id": {
+    "$oid": "67adfdf80b38ec74af061926"
+  },
+  "playerId": 12311,
+  "playerNames": [
+    "Nurtaw"
+  ],
+  "items": {
+    "Reputation": 111.5
+  },
+  "balance": 0,
+  "latestLogTimestamp": 1739448419
+},
+{
+  "_id": {
+    "$oid": "67adfdf80b38ec74af061927"
+  },
+  "playerId": 10860,
+  "playerNames": [
+    "Pedro"
+  ],
+  "items": {
+    "Reputation": 19.5
+  },
+  "balance": 0,
+  "latestLogTimestamp": 1739423533
+},
+{
+  "_id": {
+    "$oid": "67adfdf80b38ec74af061928"
+  },
+  "playerId": 12691,
+  "playerNames": [
+    "Trencal"
+  ],
+  "items": {
+    "Reputation": 63
+  },
+  "balance": 0,
+  "latestLogTimestamp": 1739419150
+},
+{
+  "_id": {
+    "$oid": "67adfdf80b38ec74af061929"
+  },
+  "playerId": 11889,
+  "playerNames": [
+    "TheBoss"
+  ],
+  "items": {
+    "Zed Juice": -5,
+    "Plastic": -6,
+    "Cement": -2,
+    "Unrefined Plastic": 1
+  },
+  "balance": -7725,
+  "latestLogTimestamp": 1739417061
+},
+{
+  "_id": {
+    "$oid": "67aef6350b38ec74af063b7b"
+  },
+  "playerId": 12864,
+  "playerNames": [
+    "Anurio"
+  ],
+  "items": {
+    "Logs": 4217,
+    "Barley Seeds": 27,
+    "Water": 33,
+    "Nails": 1000,
+    "Scrap": 1000
+  },
+  "balance": 77387,
+  "latestLogTimestamp": 1739960425
+},
+{
+  "_id": {
+    "$oid": "67af80500b38ec74af0642d2"
+  },
+  "playerId": 12426,
+  "playerNames": [
+    "TheForgotten"
+  ],
+  "items": {
+    "Water": 32,
+    "Barley Seeds": 11,
+    "声望": 510.90000000000003,
+    "Logs": 600,
+    "Dirty Water": -5,
+    "Scrap": 886
+  },
+  "balance": 70272,
+  "latestLogTimestamp": 1739580937
+},
+{
+  "_id": {
+    "$oid": "67af80500b38ec74af0642d3"
+  },
+  "playerId": 12963,
+  "playerNames": [
+    "Dekirst"
+  ],
+  "items": {
+    "声望": 84.5,
+    "Logs": 100
+  },
+  "balance": 9550,
+  "latestLogTimestamp": 1739557985
+},
+{
+  "_id": {
+    "$oid": "67af80500b38ec74af0642d4"
+  },
+  "playerId": 12335,
+  "playerNames": [
+    "StonedSnowman"
+  ],
+  "items": {
+    "声望": 544.1,
+    "Scrap": 697,
+    "Barley Seeds": 10,
+    "Dirty Water": 6,
+    "Water": 4
+  },
+  "balance": 63714,
+  "latestLogTimestamp": 1739583276
+},
+{
+  "_id": {
+    "$oid": "67af80500b38ec74af0642d5"
+  },
+  "playerId": 12729,
+  "playerNames": [
+    "Schlump"
+  ],
+  "items": {
+    "声望": 246.8
+  },
+  "balance": 24680,
+  "latestLogTimestamp": 1739544569
+},
+{
+  "_id": {
+    "$oid": "67af80500b38ec74af0642d6"
+  },
+  "playerId": 11429,
+  "playerNames": [
+    "DoctorDreidel"
+  ],
+  "items": {
+    "Water": 10,
+    "声望": 516.1,
+    "Logs": 550,
+    "Scrap": 250,
+    "Barley Seeds": 2
+  },
+  "balance": 61260,
+  "latestLogTimestamp": 1739572397
+},
+{
+  "_id": {
+    "$oid": "67af80500b38ec74af0642d7"
+  },
+  "playerId": 12471,
+  "playerNames": [
+    "spazz"
+  ],
+  "items": {
+    "声望": 254.8
+  },
+  "balance": 25480,
+  "latestLogTimestamp": 1739537934
+},
+{
+  "_id": {
+    "$oid": "67af80500b38ec74af0642d8"
+  },
+  "playerId": 13024,
+  "playerNames": [
+    "Heterochromic"
+  ],
+  "items": {
+    "声望": 230.3
+  },
+  "balance": 23030,
+  "latestLogTimestamp": 1739537934
+},
+{
+  "_id": {
+    "$oid": "67af80500b38ec74af0642d9"
+  },
+  "playerId": 10508,
+  "playerNames": [
+    "pr0sal"
+  ],
+  "items": {
+    "声望": 396.8
+  },
+  "balance": 39680,
+  "latestLogTimestamp": 1739537934
+},
+{
+  "_id": {
+    "$oid": "67af80500b38ec74af0642da"
+  },
+  "playerId": 12149,
+  "playerNames": [
+    "Zuhalter"
+  ],
+  "items": {
+    "声望": 526.8,
+    "Scrap": 109,
+    "Nails": 150
+  },
+  "balance": 56388,
+  "latestLogTimestamp": 1739571189
+},
+{
+  "_id": {
+    "$oid": "67af80500b38ec74af0642db"
+  },
+  "playerId": 12446,
+  "playerNames": [
+    "Lost"
+  ],
+  "items": {
+    "声望": 526.8
+  },
+  "balance": 52680,
+  "latestLogTimestamp": 1739561918
+},
+{
+  "_id": {
+    "$oid": "67af80500b38ec74af0642dc"
+  },
+  "playerId": 12853,
+  "playerNames": [
+    "Kvassh"
+  ],
+  "items": {
+    "声望": 526.8
+  },
+  "balance": 52680,
+  "latestLogTimestamp": 1739561918
+},
+{
+  "_id": {
+    "$oid": "67af80500b38ec74af0642dd"
+  },
+  "playerId": 12247,
+  "playerNames": [
+    "Feneath"
+  ],
+  "items": {
+    "声望": 166.5,
+    "Reputation": 225.3
+  },
+  "balance": 16650,
+  "latestLogTimestamp": 1739635967
+},
+{
+  "_id": {
+    "$oid": "67af95f20b38ec74af064363"
+  },
+  "playerId": 13378,
+  "playerNames": [
+    "NRD2nd"
+  ],
+  "items": {
+    "Reputation": 158.5
+  },
+  "balance": 0,
+  "latestLogTimestamp": 1739640393
+},
+{
+  "_id": {
+    "$oid": "67af9bbf0b38ec74af0643c1"
+  },
+  "playerId": 12984,
+  "playerNames": [
+    "Anniieee"
+  ],
+  "items": {
+    "Canned Food": 69,
+    "Reputation": 250.7,
+    "Scrap": 300
+  },
+  "balance": 3945,
+  "latestLogTimestamp": 1739662079
+},
+{
+  "_id": {
+    "$oid": "67aff3640b38ec74af06461a"
+  },
+  "playerId": 13269,
+  "playerNames": [
+    "Will"
+  ],
+  "items": {
+    "声望": 20.5
+  },
+  "balance": 2050,
+  "latestLogTimestamp": 1739579514
+},
+{
+  "_id": {
+    "$oid": "67b07e3a0b38ec74af06495d"
+  },
+  "playerId": 10170,
+  "playerNames": [
+    "Eminous"
+  ],
+  "items": {
+    "Reputation": 75.5
+  },
+  "balance": 0,
+  "latestLogTimestamp": 1739643524
+},
+{
+  "_id": {
+    "$oid": "67b0bc0b0b38ec74af064af5"
+  },
+  "playerId": 11422,
+  "playerNames": [
+    "Pelavacas"
+  ],
+  "items": {
+    "Reputation": 15.5,
+    "Dirty Water": 1,
+    "Barley Seeds": 1
+  },
+  "balance": 90,
+  "latestLogTimestamp": 1739642070
+},
+{
+  "_id": {
+    "$oid": "67b0e3fc0b38ec74af064c13"
+  },
+  "playerId": 12214,
+  "playerNames": [
+    "rweme"
+  ],
+  "items": {
+    "Reputation": 16.5
+  },
+  "balance": 0,
+  "latestLogTimestamp": 1739640393
+},
+{
+  "_id": {
+    "$oid": "67b0f8ce0b38ec74af064c75"
+  },
+  "playerId": 10834,
+  "playerNames": [
+    "RazorSupah"
+  ],
+  "items": {
+    "Water": 1,
+    "Dirty Water": 5,
+    "Barley Seeds": 7,
+    "Reputation": 35,
+    "Scrap": 35
+  },
+  "balance": 1020,
+  "latestLogTimestamp": 1739675617
+},
+{
+  "_id": {
+    "$oid": "67b130f60b38ec74af064dde"
+  },
+  "playerId": 12069,
+  "playerNames": [
+    "Zedded"
+  ],
+  "items": {
+    "Tarp": 2,
+    "Cloth": 2,
+    "Barley Seeds": 1,
+    "Reputation": 37,
+    "Canned Food": 50
+  },
+  "balance": 5700,
+  "latestLogTimestamp": 1739681071
+},
+{
+  "_id": {
+    "$oid": "67b168f10b38ec74af064ec7"
+  },
+  "playerId": 11681,
+  "playerNames": [
+    "root"
+  ],
+  "items": {
+    "Nails": 1000
+  },
+  "balance": 16000,
+  "latestLogTimestamp": 1739678323
+},
+{
+  "_id": {
+    "$oid": "67b2186a0b38ec74af065145"
+  },
+  "playerId": 13229,
+  "playerNames": [
+    "DarthJeff"
+  ],
+  "items": {
+    "Barley Seeds": 8,
+    "Dirty Water": 5,
+    "Cloth": 4
+  },
+  "balance": 1400,
+  "latestLogTimestamp": 1739796985
+},
+{
+  "_id": {
+    "$oid": "67b278950b38ec74af06515c"
+  },
+  "playerId": 12160,
+  "playerNames": [
+    "1234"
+  ],
+  "items": {
+    "Barley Seeds": 11
+  },
+  "balance": 550,
+  "latestLogTimestamp": 1739736029
+}]
